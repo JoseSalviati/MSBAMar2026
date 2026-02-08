@@ -1,0 +1,321 @@
+guest_id,first_name,last_name,visit_reason,host_type,host_id
+GST00001,Elena,Bennett,Delivery,Admin,Front Office
+GST00002,Derek,Young,Volunteer,Teacher,TCH0030
+GST00003,Zane,Singh,Maintenance,Student,STD00372
+GST00004,Rosa,Turner,Volunteer,Student,STD00459
+GST00005,Yara,Reed,Observation,Admin,Front Office
+GST00006,Opal,Reed,Maintenance,Teacher,TCH0041
+GST00007,Wendy,Wallace,Parent Meeting,Teacher,TCH0001
+GST00008,Derek,Usman,Event Speaker,Teacher,TCH0016
+GST00009,Quentin,Usman,,Student,STD00347
+GST00010,Xavier,Reed,Observation,Student,STD00374
+GST00011,Vince,Delgado,Observation,Teacher,TCH0044
+GST00012,Quentin,Chung,Parent Meeting,Teacher,TCH0016
+GST00013,Carmen,Usman,Event Speaker,Admin,Front Office
+GST00014,Yara,Wallace,Maintenance,Admin,Front Office
+GST00015,Priya,Singh,Observation,Admin,Front Office
+GST00016,Elena,Quinn,Maintenance,Admin,Front Office
+GST00017,Carmen,Delgado,Delivery,Student,STD00291
+GST00018,Zane,Wallace,Volunteer,Teacher,TCH0005
+GST00019,Yara,Chung,District Visit,Student,STD00493
+GST00020,Sanjay,Delgado,Contractor,Admin,Front Office
+GST00021,Yara,Hughes,Maintenance,Admin,Front Office
+GST00022,Quentin,Chung,Student Pickup,Teacher,TCH0023
+GST00023,Uma,Vega,Student Pickup,Teacher,TCH0006
+GST00024,Wendy,Patel,District Visit,Teacher,TCH0021
+GST00025,Sanjay,Wallace,Maintenance,Admin,Front Office
+GST00026,Zane,Allen,Student Pickup,Admin,Front Office
+GST00027,Rosa,Gupta,District Visit,Teacher,TCH0022
+GST00028,Kendra,Wallace,Event Speaker,Student,STD00390
+GST00029,Nate,Delgado,Student Pickup,Student,STD00073
+GST00030,Harold,Allen,Observation,Teacher,TCH0043
+GST00031,Derek,Foster,Event Speaker,Admin,Front Office
+GST00032,Harold,Delgado,Parent Meeting,Student,STD00252
+GST00033,Frank,Bennett,Student Pickup,Teacher,TCH0044
+GST00034,Sanjay,Olsen,District Visit,Student,STD00036
+GST00035,Alicia,Mendez,Delivery,Admin,Front Office
+GST00036,Rosa,Young,Event Speaker,Admin,Front Office
+GST00037,Derek,Vega,Event Speaker,Admin,Front Office
+GST00038,Opal,Young,Student Pickup,Admin,Front Office
+GST00039,Imani,Mendez,Maintenance,Teacher,TCH0005
+GST00040,Vince,Olsen,Maintenance,Teacher,TCH0026
+GST00041,Gina,Olsen,Observation,Student,STD00338
+GST00042,Harold,Zimmer,Delivery,Student,STD00335
+GST00043,Quentin,Klein,Event Speaker,Teacher,TCH0012
+GST00044,Priya,Foster,Parent Meeting,Teacher,TCH0008
+GST00045,Jasper,Quinn,Volunteer,Teacher,TCH0006
+GST00046,Sanjay,Zimmer,Contractor,Admin,Front Office
+GST00047,Rosa,Wallace,Volunteer,Student,STD00128
+GST00048,Tanya,Bennett,Observation,Teacher,TCH0041
+GST00049,Brandon,Delgado,District Visit,Admin,Front Office
+GST00050,Alicia,Delgado,District Visit,Admin,Front Office
+GST00051,Yara,Zimmer,Contractor,Teacher,TCH0021
+GST00052,Brandon,Foster,Student Pickup,Teacher,TCH0044
+GST00053,Monique,Nakamura,Volunteer,Teacher,TCH0018
+GST00054,Harold,Delgado,Student Pickup,Student,STD00180
+GST00055,Jasper,,Contractor,Student,STD00053
+GST00056,Jasper,Hughes,Volunteer,Admin,Front Office
+GST00057,Kendra,Young,Parent Meeting,Student,STD00063
+GST00058,Priya,Usman,Delivery,Teacher,TCH0002
+GST00059,Frank,Ibrahim,Volunteer,Teacher,TCH0013
+GST00060,Jasper,Foster,Volunteer,Teacher,TCH0001
+GST00061,Priya,Gupta,Delivery,Teacher,TCH0006
+GST00062,Monique,Klein,Maintenance,Teacher,TCH0022
+GST00063,Opal,Wallace,Maintenance,Student,STD00454
+GST00064,Tanya,Patel,,Teacher,TCH0037
+GST00065,Kendra,Olsen,Delivery,Student,STD00044
+GST00066,Vince,Singh,Contractor,Teacher,TCH0012
+GST00067,Alicia,Mendez,Contractor,Student,STD00024
+GST00068,Brandon,Lawson,Volunteer,Admin,Front Office
+GST00069,Zane,Xu,Student Pickup,Student,STD00016
+GST00070,Jasper,Singh,Parent Meeting,Teacher,TCH0010
+GST00071,Monique,Quinn,Parent Meeting,Teacher,TCH0022
+GST00072,Nate,Ellis,District Visit,Admin,Front Office
+GST00073,Alicia,Allen,Delivery,Student,STD00415
+GST00074,Quentin,Gupta,Student Pickup,Admin,Front Office
+GST00075,Monique,,Event Speaker,Admin,Front Office
+GST00076,Rosa,Usman,Event Speaker,Student,STD00447
+GST00077,Harold,Klein,Student Pickup,Student,STD00211
+GST00078,Quentin,Zimmer,Event Speaker,Teacher,TCH0025
+GST00079,Opal,Xu,Observation,Teacher,TCH0026
+GST00080,Gina,Jordan,Maintenance,Teacher,TCH0046
+GST00081,Derek,Allen,Parent Meeting,Admin,Front Office
+GST00082,Nate,Chung,Contractor,Teacher,TCH0012
+GST00083,Zane,Ibrahim,Event Speaker,Admin,Front Office
+GST00084,Vince,Hughes,Event Speaker,Teacher,TCH0009
+GST00085,Luis,Patel,Delivery,Teacher,TCH0002
+GST00086,Imani,Bennett,Contractor,Teacher,TCH0011
+GST00087,Tanya,Allen,Student Pickup,Admin,Front Office
+GST00088,Sanjay,Jordan,Observation,Admin,Front Office
+GST00089,Priya,Klein,Observation,Teacher,TCH0005
+GST00090,Gina,Lawson,Observation,Teacher,TCH0030
+GST00091,Sanjay,Ellis,Contractor,Student,STD00299
+GST00092,Vince,Patel,Event Speaker,Admin,Front Office
+GST00093,Imani,Zimmer,Student Pickup,Admin,Front Office
+GST00094,Imani,Delgado,District Visit,Student,STD00184
+GST00095,Opal,Jordan,Parent Meeting,Teacher,TCH0024
+GST00096,Priya,Lawson,District Visit,Teacher,TCH0018
+GST00097,Tanya,Ibrahim,Event Speaker,Student,STD00429
+GST00098,Imani,Patel,Observation,Teacher,TCH0033
+GST00099,Imani,Jordan,Contractor,Student,STD00303
+GST00100,Xavier,Vega,Volunteer,Teacher,TCH0026
+GST00101,Brandon,Gupta,Delivery,Admin,Front Office
+GST00102,Derek,Singh,Delivery,Student,STD00208
+GST00103,Brandon,Bennett,Observation,Student,STD00199
+GST00104,Priya,Allen,District Visit,Admin,Front Office
+GST00105,Zane,Turner,Observation,Student,STD00457
+GST00106,Wendy,Delgado,District Visit,Teacher,TCH0031
+GST00107,Opal,Klein,Parent Meeting,Admin,Front Office
+GST00108,Imani,Jordan,Event Speaker,Teacher,TCH0021
+GST00109,Vince,Allen,,Student,STD00115
+GST00110,Brandon,Allen,Volunteer,Admin,Front Office
+GST00111,Priya,Ellis,Event Speaker,Teacher,TCH0038
+GST00112,Jasper,Lawson,,Student,STD00366
+GST00113,Vince,Chung,Event Speaker,Teacher,TCH0017
+GST00114,Harold,Chung,Contractor,Student,STD00082
+GST00115,Vince,Chung,Volunteer,Admin,Front Office
+GST00116,Xavier,Jordan,Parent Meeting,Admin,Front Office
+GST00117,Zane,Mendez,,Student,STD00376
+GST00118,Gina,Xu,Observation,Student,STD00258
+GST00119,Yara,Klein,Volunteer,Admin,Front Office
+GST00120,Uma,Lawson,Event Speaker,Admin,Front Office
+GST00121,Derek,Singh,Maintenance,Student,STD00091
+GST00122,Derek,Zimmer,Delivery,Teacher,TCH0040
+GST00123,Xavier,Lawson,Event Speaker,Admin,Front Office
+GST00124,Imani,Hughes,Maintenance,Admin,Front Office
+GST00125,Harold,Foster,Contractor,Admin,Front Office
+GST00126,Jasper,Turner,Parent Meeting,Student,STD00239
+GST00127,Kendra,Ibrahim,Parent Meeting,Teacher,TCH0044
+GST00128,Luis,Gupta,Parent Meeting,Admin,Front Office
+GST00129,Nate,Mendez,Delivery,Admin,Front Office
+GST00130,Imani,Patel,Event Speaker,Student,STD00098
+GST00131,Gina,Ellis,District Visit,Teacher,TCH0025
+GST00132,Frank,Bennett,,Teacher,TCH0005
+GST00133,Derek,Hughes,Student Pickup,Student,STD00164
+GST00134,Derek,Wallace,Maintenance,Teacher,TCH0024
+GST00135,Wendy,Reed,Student Pickup,Admin,Front Office
+GST00136,Quentin,Jordan,Observation,Admin,Front Office
+GST00137,Kendra,Olsen,,Admin,Front Office
+GST00138,Vince,Hughes,Student Pickup,Admin,Front Office
+GST00139,Quentin,Young,Maintenance,Admin,Front Office
+GST00140,Opal,Usman,District Visit,Teacher,TCH0014
+GST00141,Tanya,Mendez,Volunteer,Student,STD00418
+GST00142,Luis,Allen,District Visit,Student,STD00391
+GST00143,Wendy,Turner,Delivery,Student,STD00210
+GST00144,Xavier,Turner,Volunteer,Student,STD00396
+GST00145,Derek,Lawson,Student Pickup,Admin,Front Office
+GST00146,Kendra,Jordan,Parent Meeting,Admin,Front Office
+GST00147,Brandon,Olsen,Student Pickup,Admin,Front Office
+GST00148,Yara,Delgado,Parent Meeting,Student,STD00460
+GST00149,Alicia,Olsen,Maintenance,Student,STD00110
+GST00150,Carmen,Wallace,Observation,Student,STD00454
+GST00151,Jasper,Bennett,Observation,Teacher,TCH0018
+GST00152,Imani,Lawson,Event Speaker,Student,STD00349
+GST00153,Derek,Vega,Delivery,Admin,Front Office
+GST00154,Tanya,Nakamura,Delivery,Student,STD00093
+GST00155,Derek,Xu,Parent Meeting,Admin,Front Office
+GST00156,Derek,Usman,Contractor,Admin,Front Office
+GST00157,Sanjay,Ibrahim,Student Pickup,Teacher,TCH0037
+GST00158,Zane,Bennett,Event Speaker,Admin,Front Office
+GST00159,Priya,Lawson,Student Pickup,Admin,Front Office
+GST00160,Gina,Singh,Student Pickup,Teacher,TCH0028
+GST00161,Imani,Xu,Maintenance,Teacher,TCH0031
+GST00162,Nate,Quinn,Contractor,Teacher,TCH0013
+GST00163,Derek,,Contractor,Teacher,TCH0046
+GST00164,Opal,Chung,Maintenance,Student,STD00213
+GST00165,Monique,Lawson,Delivery,Admin,Front Office
+GST00166,Vince,Mendez,Contractor,Teacher,TCH0031
+GST00167,Carmen,Singh,Delivery,Admin,Front Office
+GST00168,Alicia,Reed,Maintenance,Student,STD00406
+GST00169,Zane,Chung,Volunteer,Teacher,TCH0022
+GST00170,Vince,Lawson,Delivery,Student,STD00088
+GST00171,Frank,Nakamura,Maintenance,Student,STD00116
+GST00172,Yara,Singh,,Admin,Front Office
+GST00173,Quentin,Bennett,Observation,Teacher,TCH0005
+GST00174,Wendy,Gupta,Volunteer,Teacher,TCH0017
+GST00175,Rosa,Reed,Observation,Admin,Front Office
+GST00176,Opal,Zimmer,Delivery,Student,STD00125
+GST00177,Xavier,Vega,Event Speaker,Teacher,TCH0038
+GST00178,Yara,Young,Delivery,Student,STD00337
+GST00179,Kendra,Vega,Event Speaker,Admin,Front Office
+GST00180,Rosa,Hughes,Student Pickup,Teacher,TCH0021
+GST00181,Derek,Klein,Volunteer,Admin,Front Office
+GST00182,Nate,Wallace,Parent Meeting,Teacher,TCH0021
+GST00183,Luis,Singh,Contractor,Teacher,TCH0020
+GST00184,Quentin,Lawson,Maintenance,Student,STD00369
+GST00185,Rosa,Wallace,Student Pickup,Student,STD00067
+GST00186,Yara,Olsen,Student Pickup,Admin,Front Office
+GST00187,Wendy,Olsen,Parent Meeting,Admin,Front Office
+GST00188,Monique,Quinn,Volunteer,Admin,Front Office
+GST00189,Brandon,Jordan,Student Pickup,Teacher,TCH0007
+GST00190,Xavier,Gupta,District Visit,Teacher,TCH0019
+GST00191,Monique,Patel,Student Pickup,Teacher,TCH0017
+GST00192,Carmen,Foster,Contractor,Teacher,TCH0033
+GST00193,Vince,Allen,District Visit,Teacher,TCH0002
+GST00194,Derek,Xu,Observation,Student,STD00155
+GST00195,Elena,Young,Contractor,Student,STD00443
+GST00196,Rosa,Ibrahim,Delivery,Teacher,TCH0021
+GST00197,Priya,Usman,Student Pickup,Admin,Front Office
+GST00198,Uma,Wallace,Delivery,Admin,Front Office
+GST00199,Gina,Wallace,Maintenance,Student,STD00424
+GST00200,Rosa,Olsen,Event Speaker,Admin,Front Office
+GST00201,Kendra,Ibrahim,Delivery,Teacher,TCH0024
+GST00202,Uma,Nakamura,District Visit,Admin,Front Office
+GST00203,Sanjay,Singh,Delivery,Student,STD00196
+GST00204,Monique,Chung,Volunteer,Teacher,TCH0003
+GST00205,Derek,Mendez,Observation,Student,STD00212
+GST00206,Wendy,Foster,Contractor,Admin,Front Office
+GST00207,Tanya,Klein,Maintenance,Teacher,TCH0041
+GST00208,Jasper,Foster,Parent Meeting,Student,STD00018
+GST00209,Priya,Mendez,Delivery,Student,STD00404
+GST00210,Monique,Patel,District Visit,Teacher,TCH0040
+GST00211,Sanjay,Gupta,Event Speaker,Teacher,TCH0022
+GST00212,Priya,Usman,Observation,Admin,Front Office
+GST00213,Quentin,Xu,District Visit,Teacher,TCH0046
+GST00214,Imani,Patel,Parent Meeting,Student,STD00218
+GST00215,Zane,Lawson,Volunteer,Teacher,TCH0044
+GST00216,Luis,Reed,Student Pickup,Admin,Front Office
+GST00217,Carmen,Gupta,Delivery,Student,STD00403
+GST00218,Monique,Quinn,Maintenance,Admin,Front Office
+GST00219,Derek,Delgado,Contractor,Teacher,TCH0015
+GST00220,Xavier,Reed,Maintenance,Student,STD00149
+GST00221,Elena,Patel,Volunteer,Student,STD00421
+GST00222,Uma,Singh,Student Pickup,Student,STD00018
+GST00223,Wendy,Olsen,District Visit,Admin,Front Office
+GST00224,Uma,Foster,Observation,Teacher,TCH0036
+GST00225,Kendra,Gupta,Contractor,Student,STD00405
+GST00226,Quentin,Xu,Maintenance,Teacher,TCH0026
+GST00227,Rosa,Jordan,Parent Meeting,Teacher,TCH0007
+GST00228,Zane,Allen,District Visit,Admin,Front Office
+GST00229,Carmen,Jordan,Parent Meeting,Student,STD00499
+GST00230,Imani,Vega,,Student,STD00094
+GST00231,Frank,Patel,Observation,Student,STD00033
+GST00232,Xavier,Ibrahim,District Visit,Student,STD00441
+GST00233,Nate,Chung,District Visit,Admin,Front Office
+GST00234,Gina,Xu,Delivery,Admin,Front Office
+GST00235,Luis,Nakamura,Contractor,Teacher,TCH0018
+GST00236,Luis,Patel,Volunteer,Teacher,TCH0041
+GST00237,Harold,Nakamura,Delivery,Student,STD00332
+GST00238,Brandon,Foster,Maintenance,Admin,Front Office
+GST00239,Nate,Reed,Parent Meeting,Teacher,TCH0010
+GST00240,Nate,Wallace,Observation,Student,STD00455
+GST00241,Monique,Chung,Maintenance,Student,STD00170
+GST00242,Elena,Quinn,Contractor,Student,STD00338
+GST00243,Yara,Mendez,Event Speaker,Student,STD00106
+GST00244,Frank,Bennett,Contractor,Teacher,TCH0045
+GST00245,Quentin,Mendez,Maintenance,Student,STD00418
+GST00246,Kendra,Vega,Delivery,Teacher,TCH0046
+GST00247,Uma,Lawson,Event Speaker,Admin,Front Office
+GST00248,Nate,,Student Pickup,Teacher,TCH0001
+GST00249,Sanjay,Singh,Volunteer,Student,STD00228
+GST00250,Rosa,Klein,Event Speaker,Student,STD00374
+GST00251,Yara,Patel,Parent Meeting,Admin,Front Office
+GST00252,Wendy,Singh,Parent Meeting,Teacher,TCH0015
+GST00253,Yara,Quinn,District Visit,Teacher,TCH0041
+GST00254,Brandon,Vega,Contractor,Admin,Front Office
+GST00255,Rosa,Delgado,Observation,Teacher,TCH0001
+GST00256,Luis,Usman,Parent Meeting,Admin,Front Office
+GST00257,Luis,Nakamura,Delivery,Admin,Front Office
+GST00258,Gina,Usman,Observation,Teacher,TCH0002
+GST00259,Tanya,Reed,Parent Meeting,Teacher,TCH0037
+GST00260,Nate,Ellis,District Visit,Student,STD00165
+GST00261,Uma,Allen,District Visit,Teacher,TCH0020
+GST00262,Luis,Ibrahim,Maintenance,Student,STD00359
+GST00263,Harold,Gupta,Volunteer,Teacher,TCH0041
+GST00264,Opal,Gupta,Student Pickup,Admin,Front Office
+GST00265,Brandon,Singh,Observation,Admin,Front Office
+GST00266,Nate,Patel,Maintenance,Student,STD00063
+GST00267,Wendy,Mendez,Parent Meeting,Teacher,TCH0037
+GST00268,Rosa,Ellis,Event Speaker,Teacher,TCH0018
+GST00269,Gina,Reed,Observation,Student,STD00279
+GST00270,Wendy,Hughes,Contractor,Teacher,TCH0007
+GST00271,Rosa,Chung,Parent Meeting,Teacher,TCH0030
+GST00272,Priya,Chung,Event Speaker,Admin,Front Office
+GST00273,Wendy,Hughes,Maintenance,Teacher,TCH0044
+GST00274,Quentin,Turner,Event Speaker,Teacher,TCH0024
+GST00275,Kendra,Mendez,District Visit,Admin,Front Office
+GST00276,Harold,Gupta,Contractor,Teacher,TCH0046
+GST00277,Vince,,Event Speaker,Admin,Front Office
+GST00278,Nate,Xu,Maintenance,Teacher,TCH0025
+GST00279,Carmen,Ibrahim,Student Pickup,Admin,Front Office
+GST00280,Harold,Delgado,Volunteer,Teacher,TCH0016
+GST00281,Tanya,Turner,District Visit,Teacher,TCH0046
+GST00282,Luis,Quinn,Contractor,Student,STD00008
+GST00283,Gina,Mendez,Maintenance,Teacher,TCH0014
+GST00284,Harold,Jordan,Volunteer,Teacher,TCH0016
+GST00285,Harold,Wallace,Contractor,Student,STD00197
+GST00286,Zane,Singh,Student Pickup,Student,STD00112
+GST00287,Harold,Mendez,Student Pickup,Teacher,TCH0001
+GST00288,Imani,Allen,District Visit,Teacher,TCH0042
+GST00289,Priya,Lawson,Contractor,Student,STD00090
+GST00290,Sanjay,Chung,Volunteer,Student,STD00480
+GST00291,Quentin,Gupta,Delivery,Teacher,TCH0043
+GST00292,Wendy,Lawson,Parent Meeting,Admin,Front Office
+GST00293,Sanjay,Xu,Contractor,Teacher,TCH0028
+GST00294,Frank,Wallace,Parent Meeting,Admin,Front Office
+GST00295,Quentin,Allen,Volunteer,Student,STD00294
+GST00296,Opal,Young,,Admin,Front Office
+GST00297,Kendra,Turner,Maintenance,Teacher,TCH0003
+GST00298,Kendra,Wallace,Volunteer,Teacher,TCH0007
+GST00299,Vince,Jordan,District Visit,Admin,Front Office
+GST00300,Yara,Patel,Maintenance,Admin,Front Office
+GST00301,Imani,Allen,Observation,Teacher,TCH0022
+GST00302,Yara,Ibrahim,Observation,Student,STD00408
+GST00303,Luis,Reed,District Visit,Admin,Front Office
+GST00304,Frank,Klein,Volunteer,Teacher,TCH0010
+GST00305,Opal,Nakamura,Parent Meeting,Student,STD00371
+GST00306,Vince,Klein,Delivery,Teacher,TCH0042
+GST00307,Kendra,Nakamura,Parent Meeting,Admin,Front Office
+GST00308,Jasper,Ibrahim,Maintenance,Admin,Front Office
+GST00309,Carmen,Klein,Volunteer,Student,STD00489
+GST00310,Alicia,Reed,Student Pickup,Admin,Front Office
+GST00311,Yara,Chung,Maintenance,Student,STD00091
+GST00312,Alicia,Jordan,Delivery,Admin,Front Office
+GST00313,Nate,Lawson,Event Speaker,Admin,Front Office
+GST00314,Zane,Mendez,Maintenance,Teacher,TCH0023
+GST00315,Rosa,Lawson,District Visit,Student,STD00097
+GST00316,Frank,Quinn,Volunteer,Student,STD00321
+GST00317,Quentin,Lawson,Student Pickup,Admin,Front Office
+GST00318,Frank,Singh,Event Speaker,Admin,Front Office
+GST00319,Xavier,Xu,Event Speaker,Admin,Front Office
+GST00320,Frank,Hughes,Student Pickup,Student,STD00117

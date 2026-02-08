@@ -1,0 +1,2 @@
+school_id,school_name,address,city,state,grade_min,grade_max,enrollment_target,school_year_start,school_year_end,instructional_days,device_policy
+SCH0001,Cedar Grove K-8 Academy,214 Cedar Grove Dr,Riverton,CA,K,8,500,2023-08-21,2024-05-31,180,Devices active on-campus only; deactivated off-campus

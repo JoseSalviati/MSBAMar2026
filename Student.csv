@@ -1,0 +1,501 @@
+student_id,school_id,first_name,last_name,grade,date_of_birth,device_id,enrollment_date,status,withdrawal_date,friend_group_id,friend_group_name,risk_score_0_100,security_watchlist_flag,device_tamper_flag,risk_tags,notes
+STD00001,SCH0001,Ethan,Morales,3,2015-03-17,DEV-170394,2021-05-30,Active,,GRP022,Quiet Corner,30,0,0,,Badge scan mismatch vs device ping (one time).
+STD00002,SCH0001,Piper,Morris,7,2011-12-24,DEV-195656,2022-05-28,Active,,GRP023,Lunch Line Legends,28,0,0,peer-leader,Parent requested device strap replacement.
+STD00003,SCH0001,Chloe,Morales,4,2014-04-08,DEV-972176,2022-04-02,Active,,GRP031,Book Fair Brigade,49,0,0,conflict-prone,Quiet but tends to wander halls.
+STD00004,SCH0001,Anthony,Rivera,4,2014-03-10,DEV-189511,2023-01-23,Active,,GRP001,Library Crew,68,0,0,peer-leader,Device reported low battery twice this month.
+STD00005,SCH0001,Rowan,Robinson,K,2018-11-08,DEV-197758,2021-02-22,Active,,GRP018,Group Project Gang,57,0,0,,Frequent early arrivals at main entrance.
+STD00006,SCH0001,Ava,Gonzalez,2,2016-11-19,DEV-552855,2020-10-16,Active,,GRP007,Skatepark Stories,78,0,0,boundary-testing,Frequent early arrivals at main entrance.
+STD00007,SCH0001,Mia,Flores,8,2010-10-20,DEV-201255,2023-08-18,Active,,GRP024,Kindness Captains,3,0,0,quiet-observer,Parent requested device strap replacement.
+STD00008,SCH0001,Elizabeth,Williams,7,2011-12-11,DEV-880758,2021-07-26,Active,,GRP001,Library Crew,65,0,0,bathroom-loitering,Seen near back gate during aftercare pickup.
+STD00009,SCH0001,Aiden,Wright,K,2018-07-08,DEV-874683,,Active,,GRP036,Sunset Walkers,52,0,0,,Quiet but tends to wander halls.
+STD00010,SCH0001,Zoey,Taylor,K,2018-11-10,DEV-490748,2023-04-07,Active,,GRP033,Creative Crew,45,0,0,model-citizen;hallway-sprinter,Strong peer influence in group.
+STD00011,SCH0001,Lucas,Collins,1,2017-09-23,DEV-951201,2023-08-27,Active,,GRP022,Quiet Corner,46,0,0,model-citizen/bathroom-loitering,
+STD00012,SCH0001,Sage,Diaz,3,2015-08-19,DEV-236435,2020-09-14,Active,,GRP003,Playground Pack,56,0,0,,
+STD00013,SCH0001,Thomas,Garcia,7,2011-05-14,DEV-683397,2022-12-09,Active,,GRP030,Sports Meds,35,0,0,quiet-observer,
+STD00014,SCH0001,Anthony,Moore,6,2012-12-08,DEV-162894,2023-03-07,Active,,GRP035,Team Homework,41,0,0,,Badge scan mismatch vs device ping (one time).
+STD00015,SCH0001,Liam,Diaz,6,2012-10-25,DEV-714953,2023-09-09,Active,,GRP015,Notebook Ninjas,66,0,0,,
+STD00016,SCH0001,Hannah,Walker,4,2014-12-19,DEV-688866,2022-05-19,Active,,GRP019,Gamer Chat,56,0,0,boundary-testing,Lunch line disputes reported by staff.
+STD00017,SCH0001,David,Roberts,4,2014-09-11,DEV-688967,2021-08-12,Active,,GRP015,Notebook Ninjas,52,0,0,restricted-area-curiosity|hallway-sprinter,Quiet but tends to wander halls.
+STD00018,SCH0001,Caleb,Allen,7,2011-05-07,DEV-445658,2023-10-19,Active,,GRP037,Early Arrivers,67,0,0,,Parent requested device strap replacement.
+STD00019,SCH0001,Adam,Ramirez,6,2013-04-24,DEV-802559,2023-04-08,Active,,GRP010,Hallway Hustle,37,0,0,,Seen near back gate during aftercare pickup.
+STD00020,SCH0001,Gabriel,Cook,7,2011-08-04,DEV-836833,2022-05-18,Active,,GRP008,Cafeteria Corner,44,0,0,,Strong peer influence in group.
+STD00021,SCH0001,Hannah,Lee,5,2013-04-11,DEV-530764,2023-09-02,Active,,GRP019,Gamer Chat,55,0,0,frequent-nurse-visits;bus-loop-linger,
+STD00022,SCH0001,Jordan,Harris,7,2011-09-21,DEV-470774,2020-12-31,Active,,GRP003,Playground Pack,55,0,1,device-tamper|bathroom-loitering,Lunch line disputes reported by staff.
+STD00023,SCH0001,Brooklyn,Morales,2,2014-09-18,DEV-797660,2022-02-14,Active,,GRP009,Science Lab Rats,25,0,0,quiet-observer,
+STD00024,SCH0001,Brooklyn,King,4,2014-06-09,DEV-886730,2023-02-27,Active,,GRP024,Kindness Captains,42,0,0,,Quiet but tends to wander halls.
+STD00025,SCH0001,Mia,Thompson,7,2011-02-16,DEV-543481,2021-02-12,Active,,GRP010,Hallway Hustle,47,0,0,wanderer|model-citizen,Quiet but tends to wander halls.
+STD00026,SCH0001,Liam,White,1,2017-06-01,DEV-856086,2022-10-25,Active,,GRP035,Team Homework,57,0,0,frequent-nurse-visits,Badge scan mismatch vs device ping (one time).
+STD00027,SCH0001,Piper,Rivera,6,2012-01-04,DEV-153945,2024-01-10,Active,,GRP005,Art Cartel,14,0,0,quiet-observer,Swapped device with friend once (unclear).
+STD00028,SCH0001,Jude,Roberts,5,2013-02-25,DEV-401601,2021-01-16,Suspended,,GRP008,Cafeteria Corner,50,0,1,conflict-prone,Seen near back gate during aftercare pickup.
+STD00029,SCH0001,Harper,Moore,K,2018-02-06,,2023-11-30,Active,,GRP028,Study Hall Squad,20,0,0,,Badge scan mismatch vs device ping (one time).
+STD00030,SCH0001,Grace,Thompson,6,2012-11-13,DEV-427626,2023-12-21,Active,,GRP002,Bus Loop Buddies,52,0,0,boundary-testing,
+STD00031,SCH0001,Aiden,Phillips,1,2017-06-27,DEV-468727,2022-06-17,Active,,GRP022,Quiet Corner,42,0,0,conflict-prone,Swapped device with friend once (unclear).
+STD00032,SCH0001,Hannah,Murphy,4,2014-10-26,DEV-208633,2022-10-14,Active,,GRP014,New Kids Table,59,0,0,,Badge scan mismatch vs device ping (one time).
+STD00033,SCH0001,Hannah,Martinez,7,2011-07-22,DEV-705991,2021-06-12,Active,,GRP032,STEM Sparks,45,0,0,wanderer,Seen near back gate during aftercare pickup.
+STD00034,SCH0001,Finley,Lopez,6,2012-02-25,DEV-632060,2023-12-12,Active,,GRP007,Skatepark Stories,56,0,0,,Quiet but tends to wander halls.
+STD00035,SCH0001,Emerson,Robinson,K,2018-08-12,DEV-323072,2023-05-22,Active,,GRP005,Art Cartel,50,0,0,,Device reported low battery twice this month.
+STD00036,SCH0001,David,Morris,1,2017-02-15,DEV-262246,2020-10-31,Active,,GRP025,Tech Helpers,36,0,0,hallway-sprinter;restricted-area-curiosity,Seen near back gate during aftercare pickup.
+STD00037,SCH0001,Ryan,Walker,7,2011-07-21,DEV-788637,2020-09-29,Active,,GRP031,Book Fair Brigade,64,0,0,,
+STD00038,SCH0001,Finley,Harris,4,2014-06-11,DEV-605612,2023-04-30,Active,,GRP024,Kindness Captains,75,0,1,device-tamper;conflict-prone;restricted-area-curiosity,Badge scan mismatch vs device ping (one time).
+STD00039,SCH0001,Bella,Lopez,K,2018-11-05,DEV-335137,2022-09-04,Active,,GRP011,Morning Walkers,75,0,0,boundary-testing;restricted-area-curiosity,
+STD00040,SCH0001,Aaron,Davis,K,2018-06-01,DEV-988432,2023-09-25,Active,,GRP008,Cafeteria Corner,41,0,0,model-citizen,
+STD00041,SCH0001,Finley,Nguyen,6,2012-03-25,DEV-213475,2023-08-31,Active,,GRP016,Sticker Traders,67,0,0,peer-leader,Device reported low battery twice this month.
+STD00042,SCH0001,Harper,Allen,5,2013-05-28,DEV-985506,2021-01-26,Active,,GRP020,Drama Circle,81,0,0,bathroom-loitering/conflict-prone/boundary-testing,Device reported low battery twice this month.
+STD00043,SCH0001,Ava,Rivera,8,2010-09-09,DEV-986438,2022-03-23,Active,,GRP007,Skatepark Stories,66,0,0,group-magnet/bathroom-loitering,Parent requested device strap replacement.
+STD00044,SCH0001,James,Allen,8,2010-03-23,DEV-683286,2022-10-14,Active,,GRP007,Skatepark Stories,62,0,0,bathroom-loitering,Badge scan mismatch vs device ping (one time).
+STD00045,SCH0001,Julian,Reyes,K,2018-08-11,DEV-485415,2021-02-07,Active,,GRP031,Book Fair Brigade,28,0,0,,Device reported low battery twice this month.
+STD00046,SCH0001,Lily,Nguyen,3,2015-06-18,DEV-220465,2022-07-05,Active,,GRP033,Creative Crew,84,0,1,device-tamper;bathroom-loitering,
+STD00047,SCH0001,Levi,Clark,8,2010-12-05,DEV-899649,2023-12-02,Active,,GRP030,Sports Meds,36,0,0,,Device reported low battery twice this month.
+STD00048,SCH0001,Amelia,Wilson,4,2014-01-07,DEV-392099,2023-11-27,Active,,GRP009,Science Lab Rats,44,0,0,,
+STD00049,SCH0001,Julian,Flores,6,2012-03-13,DEV-701987,,Active,,GRP035,Team Homework,65,0,1,device-tamper/frequent-nurse-visits,Lunch line disputes reported by staff.
+STD00050,SCH0001,Amelia,Wilson,2,2016-03-25,DEV-337144,2022-12-28,Active,,GRP005,Art Cartel,28,0,0,"wanderer , group-magnet",Parent requested device strap replacement.
+STD00051,SCH0001,Carter,Sanchez,4,2014-12-13,DEV-986982,2021-12-04,Active,,GRP005,Art Cartel,21,0,0,peer-leader,
+STD00052,SCH0001,Reese,Diaz,7,2011-06-18,DEV-549956,,Active,,GRP010,Hallway Hustle,53,0,0,peer-leader,Parent requested device strap replacement.
+STD00053,SCH0001,Bella,Lee,4,2014-05-03,DEV-986209,2021-06-15,Active,,GRP031,Book Fair Brigade,55,0,0,frequent-nurse-visits/bathroom-loitering,
+STD00054,SCH0001,Andrew,Thomas,6,2012-08-20,DEV-688215,2023-10-06,Active,,GRP008,Cafeteria Corner,64,0,0,"peer-leader , hallway-sprinter",Frequent early arrivals at main entrance.
+STD00055,SCH0001,Evelyn,Jones,2,2016-06-26,DEV-904711,2023-10-25,Active,,GRP032,STEM Sparks,59,0,0,restricted-area-curiosity|conflict-prone,
+STD00056,SCH0001,Sage,Johnson,2,2016-01-28,DEV-958182,2022-09-24,Active,,GRP003,Playground Pack,20,0,0,peer-leader,Badge scan mismatch vs device ping (one time).
+STD00057,SCH0001,Isabella,Carter,7,2011-02-17,DEV-751924,2023-06-23,Active,,GRP020,Drama Circle,72,0,0,hallway-sprinter,Seen near back gate during aftercare pickup.
+STD00058,SCH0001,Reese,Flores,5,2013-12-20,DEV-743378,2021-09-05,Active,,GRP033,Creative Crew,54,0,0,late-arrival-pattern,
+STD00059,SCH0001,Aiden,Roberts,5,2013-12-24,DEV-807764,2022-12-08,Active,,GRP030,Sports Meds,65,0,0,,Swapped device with friend once (unclear).
+STD00060,SCH0001,Julian,Reyes,3,2015-12-03,DEV-773918,2024-01-24,Active,,GRP035,Team Homework,53,0,0,boundary-testing,Seen near back gate during aftercare pickup.
+STD00061,SCH0001,Scarlett,Hernandez,8,2010-04-05,DEV-683783,2021-07-03,Active,,GRP029,Band Buddies,28,0,0,,
+STD00062,SCH0001,Aria,Miller,1,2017-04-27,DEV-127529,2022-07-30,Active,,GRP038,Late Bus League,63,0,0,,Badge scan mismatch vs device ping (one time).
+STD00063,SCH0001,Logan,Stewart,5,2013-02-26,DEV-738577,2023-12-12,Active,,GRP038,Late Bus League,33,0,1,wanderer|boundary-testing,Parent requested device strap replacement.
+STD00064,SCH0001,James,Gonzalez,1,2017-06-04,DEV-789786,2023-10-20,Active,,GRP003,Playground Pack,64,0,0,restricted-area-curiosity,
+STD00065,SCH0001,Brooklyn,Allen,K,2018-11-10,DEV-969752,2021-01-27,Active,,GRP016,Sticker Traders,73,0,1,device-tamper|frequent-nurse-visits,Badge scan mismatch vs device ping (one time).
+STD00066,SCH0001,Quinn,Murphy,5,2013-06-19,DEV-827157,2022-05-16,Active,,GRP007,Skatepark Stories,34,0,0,peer-leader,Parent requested device strap replacement.
+STD00067,SCH0001,Finley,Rodriguez,5,2013-04-19,DEV-380439,2021-07-22,Active,,GRP019,Gamer Chat,53,0,0,late-arrival-pattern;bus-loop-linger,Lunch line disputes reported by staff.
+STD00068,SCH0001,Jackson,Murphy,2,2016-01-03,DEV-130359,2023-10-22,Active,,GRP038,Late Bus League,66,0,0,,
+STD00069,SCH0001,Gabriel,Hernandez,1,2017-06-23,DEV-289179,2022-04-11,Active,,GRP026,PE Pace Setters,46,0,0,"model-citizen , frequent-nurse-visits",
+STD00070,SCH0001,Hannah,Moore,5,2011-12-19,DEV-386544,2023-11-21,Active,,GRP011,Morning Walkers,99,1,1,device-tamper|boundary-testing|bathroom-loitering,Device reported low battery twice this month.
+STD00071,SCH0001,Layla,Thompson,6,2012-11-03,DEV-836833,2022-06-19,Active,,GRP008,Cafeteria Corner,52,0,0,hallway-sprinter,Swapped device with friend once (unclear).
+STD00072,SCH0001,Mateo,Cook,8,2010-07-12,DEV-899444,2023-10-28,Active,,GRP021,Bike Rack Crew,33,0,0,,Seen near back gate during aftercare pickup.
+STD00073,SCH0001,Isaac,Perez,1,2017-12-03,DEV-423993,2023-11-30,Active,,GRP006,Soccer Squad,68,0,0,restricted-area-curiosity;wanderer,Device reported low battery twice this month.
+STD00074,SCH0001,Riley,Wright,1,2017-11-10,DEV-456331,2023-08-31,Active,,GRP001,Library Crew,48,0,0,group-magnet,
+STD00075,SCH0001,Lucas,Morris,8,2010-02-10,DEV-665990,2024-01-18,Suspended,,GRP014,New Kids Table,63,0,0,,Frequent early arrivals at main entrance.
+STD00076,SCH0001,Emily,Wilson,3,2015-02-22,DEV-106402,2023-11-21,Suspended,,GRP005,Art Cartel,42,0,0,frequent-nurse-visits;model-citizen,Badge scan mismatch vs device ping (one time).
+STD00077,SCH0001,Emerson,Martin,1,2017-02-25,DEV-290217,2021-10-08,Active,,GRP017,Snack Sharers,64,0,1,device-tamper,Frequent early arrivals at main entrance.
+STD00078,SCH0001,Mason,Gonzalez,5,2013-07-18,DEV-250210,,Active,,GRP010,Hallway Hustle,33,0,0,bathroom-loitering,
+STD00079,SCH0001,Reese,Wilson,1,2017-05-28,DEV-693830,2022-09-24,Active,,GRP036,Sunset Walkers,41,0,0,restricted-area-curiosity,Seen near back gate during aftercare pickup.
+STD00080,SCH0001,Ethan,Morris,K,2016-05-10,DEV-789275,2021-02-18,Active,,GRP005,Art Cartel,61,0,0,boundary-testing,Swapped device with friend once (unclear).
+STD00081,SCH0001,Kai,Carter,8,2010-01-17,DEV-520252,2024-01-13,Active,,GRP023,Lunch Line Legends,85,0,1,device-tamper,Seen near back gate during aftercare pickup.
+STD00082,SCH0001,Victoria,Carter,6,2012-08-17,DEV-172965,2021-12-09,Active,,GRP001,Library Crew,29,0,0,"peer-leader , conflict-prone",Frequent early arrivals at main entrance.
+STD00083,SCH0001,Ethan,Perez,4,2014-10-25,DEV-248766,2021-09-28,Active,,GRP032,STEM Sparks,93,1,1,device-tamper|boundary-testing|bathroom-loitering,Device reported low battery twice this month.
+STD00084,SCH0001,Zoey,Torres,3,2015-07-13,DEV-876962,2022-04-11,Active,,GRP034,Weekend Warriors,66,0,0,"frequent-nurse-visits , conflict-prone",
+STD00085,SCH0001,Victoria,Nelson,2,2016-05-09,DEV-763928,2021-08-21,Active,,GRP022,Quiet Corner,39,0,0,quiet-observer;frequent-nurse-visits,Frequent early arrivals at main entrance.
+STD00086,SCH0001,Dylan,Evans,5,2013-07-24,DEV-132146,2021-08-24,Active,,GRP007,Skatepark Stories,50,0,0,frequent-nurse-visits,Quiet but tends to wander halls.
+STD00087,SCH0001,Logan,Morris,6,2012-03-24,DEV-196214,2021-08-10,Active,,GRP021,Bike Rack Crew,66,0,0,,Seen near back gate during aftercare pickup.
+STD00088,SCH0001,Hannah,Stewart,K,2018-02-16,DEV-882354,2023-10-20,Active,,GRP007,Skatepark Stories,74,0,0,,Device reported low battery twice this month.
+STD00089,SCH0001,Reese,Reyes,4,2014-03-11,DEV-656251,2022-06-13,Active,,GRP024,Kindness Captains,12,0,0,quiet-observer,
+STD00090,SCH0001,Andrew,Parker,6,2012-07-14,DEV-325583,2021-09-13,Active,,GRP007,Skatepark Stories,64,0,1,device-tamper;late-arrival-pattern,Seen near back gate during aftercare pickup.
+STD00091,SCH0001,Harper,Gomez,8,2010-09-19,DEV-494468,2022-03-19,Active,,GRP009,Science Lab Rats,41,0,0,restricted-area-curiosity/conflict-prone,Swapped device with friend once (unclear).
+STD00092,SCH0001,Wyatt,Moore,7,2009-09-06,DEV-540226,2020-10-16,Active,,GRP004,Chess Club-ish,51,0,0,late-arrival-pattern|frequent-nurse-visits,Lunch line disputes reported by staff.
+STD00093,SCH0001,Riley,King,8,2010-08-23,DEV-575682,2022-04-09,Active,,GRP015,Notebook Ninjas,62,0,0,restricted-area-curiosity|quiet-observer,Frequent early arrivals at main entrance.
+STD00094,SCH0001,Harper,Cook,7,2011-04-20,DEV-457455,2021-09-18,Active,,GRP031,Book Fair Brigade,21,1,0,model-citizen,Parent requested device strap replacement.
+STD00095,SCH0001,Elijah,Cook,5,2013-03-03,DEV-265055,2022-01-07,Active,,GRP003,Playground Pack,42,0,0,,Seen near back gate during aftercare pickup.
+STD00096,SCH0001,Layla,Parker,5,2013-12-04,DEV-488028,2021-05-11,Active,,GRP023,Lunch Line Legends,70,0,0,"boundary-testing , bus-loop-linger",Lunch line disputes reported by staff.
+STD00097,SCH0001,Caleb,Morales,6,2012-07-21,DEV-426775,2020-11-29,Active,,GRP036,Sunset Walkers,37,0,0,hallway-sprinter,Seen near back gate during aftercare pickup.
+STD00098,SCH0001,James,Morales,8,2010-08-04,DEV-856648,2024-01-13,Active,,GRP015,Notebook Ninjas,62,0,0,group-magnet|conflict-prone,Lunch line disputes reported by staff.
+STD00099,SCH0001,Caleb,Lee,5,2013-09-20,DEV-440140,2023-03-20,Active,,GRP036,Sunset Walkers,51,0,0,,Parent requested device strap replacement.
+STD00100,SCH0001,Jayden,Lopez,1,2017-08-15,DEV-914571,2023-02-02,Active,,GRP038,Late Bus League,26,0,0,,Strong peer influence in group.
+STD00101,SCH0001,Aria,Ramirez,1,2017-11-22,DEV-695164,2021-10-31,Suspended,,GRP010,Hallway Hustle,65,0,0,frequent-nurse-visits|conflict-prone,
+STD00102,SCH0001,Hannah,Carter,3,2015-12-04,DEV-725185,2023-10-21,Active,,GRP025,Tech Helpers,69,0,0,group-magnet,Parent requested device strap replacement.
+STD00103,SCH0001,Ivy,Taylor,6,2012-08-15,DEV-189083,2023-09-13,Active,,GRP018,Group Project Gang,39,0,0,hallway-sprinter;restricted-area-curiosity,Swapped device with friend once (unclear).
+STD00104,SCH0001,Ariana,Nelson,8,2010-09-13,DEV-155164,2021-12-22,Active,,GRP005,Art Cartel,36,0,0,,Seen near back gate during aftercare pickup.
+STD00105,SCH0001,Riley,Lewis,1,2017-04-07,DEV-263137,2021-04-29,Active,,GRP005,Art Cartel,80,0,1,conflict-prone/device-tamper/restricted-area-curiosity,Quiet but tends to wander halls.
+STD00106,SCH0001,Levi,Williams,1,2015-03-02,DEV-265056,2021-06-26,Active,,GRP024,Kindness Captains,56,0,1,device-tamper,Lunch line disputes reported by staff.
+STD00107,SCH0001,Parker,Robinson,4,2014-12-21,DEV-891083,2022-03-13,Active,,GRP020,Drama Circle,21,0,1,peer-leader,Strong peer influence in group.
+STD00108,SCH0001,Eli,Robinson,3,2015-11-23,DEV-747850,2023-12-19,Active,,GRP037,Early Arrivers,57,0,0,bathroom-loitering|restricted-area-curiosity,Quiet but tends to wander halls.
+STD00109,SCH0001,Henry,King,5,2013-01-11,DEV-152179,2022-05-23,Active,,GRP029,Band Buddies,80,0,0,,
+STD00110,SCH0001,Piper,Perez,1,2017-07-18,DEV-806707,2021-10-11,Active,,GRP035,Team Homework,37,0,0,peer-leader|model-citizen,Device reported low battery twice this month.
+STD00111,SCH0001,Bella,Allen,4,2014-01-22,DEV-185544,2021-03-21,Active,,GRP028,Study Hall Squad,27,0,0,peer-leader,Parent requested device strap replacement.
+STD00112,SCH0001,Sage,Lopez,K,2018-02-06,DEV-385320,2020-12-13,Active,,GRP025,Tech Helpers,46,0,0,,Badge scan mismatch vs device ping (one time).
+STD00113,SCH0001,Sophia,Reyes,6,2012-12-11,DEV-564637,2021-12-29,Active,,GRP028,Study Hall Squad,84,0,0,boundary-testing|bathroom-loitering,
+STD00114,SCH0001,Brooklyn,Martinez,7,2011-12-19,DEV-794093,2023-11-17,Active,,GRP038,Late Bus League,27,0,0,quiet-observer,
+STD00115,SCH0001,Quinn,Hill,8,2010-11-05,DEV-582446,,Active,,GRP013,Music Room Regulars,48,0,0,,
+STD00116,SCH0001,David,Lewis,2,2016-07-21,DEV-609253,2024-01-16,Active,,GRP029,Band Buddies,78,0,0,bathroom-loitering,
+STD00117,SCH0001,Jude,,1,2017-06-12,DEV-736565,2023-10-20,Active,,GRP025,Tech Helpers,74,0,0,bus-loop-linger,
+STD00118,SCH0001,Grace,Robinson,6,2012-12-24,DEV-563516,2022-06-11,Active,,GRP009,Science Lab Rats,51,0,0,bathroom-loitering|restricted-area-curiosity,
+STD00119,SCH0001,Sofia,Wright,7,2011-12-21,DEV-534303,2023-06-05,Active,,GRP012,Aftercare Friends,92,1,1,device-tamper,Parent requested device strap replacement.
+STD00120,SCH0001,Gabriel,Phillips,1,2017-04-25,DEV-386436,2023-05-24,Active,,GRP036,Sunset Walkers,46,0,0,frequent-nurse-visits;restricted-area-curiosity,Strong peer influence in group.
+STD00121,SCH0001,Benjamin,Morales,1,2017-06-02,DEV-582446,2022-08-27,Active,,GRP028,Study Hall Squad,51,0,0,model-citizen,
+STD00122,SCH0001,Kai,Torres,7,2011-12-09,DEV-891615,2022-09-15,Active,,GRP005,Art Cartel,16,0,0,quiet-observer,Seen near back gate during aftercare pickup.
+STD00123,SCH0001,Adam,Johnson,K,2018-09-05,DEV-637234,2022-02-27,Active,,GRP020,Drama Circle,73,0,0,,Lunch line disputes reported by staff.
+STD00124,SCH0001,Adam,Ramirez,4,2014-10-06,DEV-219346,2021-04-19,Active,,GRP022,Quiet Corner,16,0,0,peer-leader,Swapped device with friend once (unclear).
+STD00125,SCH0001,Reese,Brown,2,2016-12-24,DEV-461939,2023-02-06,Active,,GRP001,Library Crew,55,0,0,wanderer,
+STD00126,SCH0001,Samuel,Reyes,5,2013-10-19,DEV-550797,2020-09-03,Active,,GRP002,Bus Loop Buddies,39,0,0,,
+STD00127,SCH0001,Finley,Rogers,5,2013-02-03,DEV-216276,2020-08-03,Active,,GRP029,Band Buddies,39,0,0,,Lunch line disputes reported by staff.
+STD00128,SCH0001,Isaac,Rivera,1,2017-10-26,DEV-397005,2021-02-17,Active,,GRP029,Band Buddies,65,1,0,,Badge scan mismatch vs device ping (one time).
+STD00129,SCH0001,Emerson,Taylor,3,2015-09-01,DEV-811163,2022-11-16,Active,,GRP030,Sports Meds,66,0,0,"quiet-observer , wanderer",Device reported low battery twice this month.
+STD00130,SCH0001,Parker,Morales,4,2014-03-12,DEV-811444,2023-10-28,Active,,GRP031,Book Fair Brigade,56,0,0,bathroom-loitering;bus-loop-linger,Seen near back gate during aftercare pickup.
+STD00131,SCH0001,Bella,Davis,5,2014-02-27,DEV-721946,2023-12-13,Active,,GRP017,Snack Sharers,35,0,0,,Badge scan mismatch vs device ping (one time).
+STD00132,SCH0001,Ava,White,5,2013-11-16,DEV-610271,2023-06-28,Active,,GRP038,Late Bus League,40,0,0,,
+STD00133,SCH0001,Victoria,Evans,2,2016-06-22,DEV-652530,2020-12-19,Active,,GRP005,Art Cartel,50,0,0,"conflict-prone , group-magnet",Lunch line disputes reported by staff.
+STD00134,SCH0001,Emerson,Johnson,1,2017-05-06,DEV-799539,2022-03-26,Active,,GRP038,Late Bus League,52,0,0,group-magnet/hallway-sprinter,Device reported low battery twice this month.
+STD00135,SCH0001,Nathan,Reyes,K,2016-02-09,DEV-423401,2021-10-26,Active,,GRP003,Playground Pack,60,0,0,"peer-leader , late-arrival-pattern",Parent requested device strap replacement.
+STD00136,SCH0001,Samuel,Hernandez,2,2016-09-06,DEV-147623,2022-02-03,Active,,GRP037,Early Arrivers,46,0,1,"device-tamper , group-magnet",Device reported low battery twice this month.
+STD00137,SCH0001,Brooklyn,Campbell,8,2010-03-25,DEV-331230,2023-05-06,Active,,GRP027,Field Trip Friends,22,0,0,quiet-observer,Strong peer influence in group.
+STD00138,SCH0001,Jordan,Harris,1,2017-09-09,,2023-07-13,Active,,GRP035,Team Homework,50,0,0,group-magnet,Quiet but tends to wander halls.
+STD00139,SCH0001,Mia,Williams,8,2010-11-07,DEV-728437,2022-01-14,Active,,GRP034,Weekend Warriors,67,0,0,conflict-prone,Seen near back gate during aftercare pickup.
+STD00140,SCH0001,Lincoln,Torres,8,2010-08-06,DEV-157443,2021-02-21,Active,,GRP016,Sticker Traders,46,1,0,,Swapped device with friend once (unclear).
+STD00141,SCH0001,Kai,Adams,4,2014-08-10,DEV-108060,2021-02-19,Active,,GRP038,Late Bus League,65,0,0,"bathroom-loitering , model-citizen",Frequent early arrivals at main entrance.
+STD00142,SCH0001,Mateo,Taylor,5,2013-06-28,DEV-314353,2023-08-08,Active,,GRP023,Lunch Line Legends,45,0,0,hallway-sprinter,Parent requested device strap replacement.
+STD00143,SCH0001,Ella,Hall,K,2018-07-21,DEV-416061,2021-01-10,Suspended,,GRP003,Playground Pack,39,0,0,wanderer,Seen near back gate during aftercare pickup.
+STD00144,SCH0001,Kai,Collins,1,2017-07-06,DEV-321494,2021-12-29,Suspended,,GRP007,Skatepark Stories,84,0,0,,
+STD00145,SCH0001,Rowan,Lopez,5,2013-02-09,DEV-904624,2022-10-08,Active,,GRP034,Weekend Warriors,69,0,1,,Seen near back gate during aftercare pickup.
+STD00146,SCH0001,Ryan,Scott,2,2016-09-15,,2023-11-24,Active,,GRP008,Cafeteria Corner,72,0,0,"frequent-nurse-visits , group-magnet",
+STD00147,SCH0001,Gabriel,Turner,3,2016-03-12,DEV-901280,2024-01-04,Active,,GRP019,Gamer Chat,20,0,0,quiet-observer,Device reported low battery twice this month.
+STD00148,SCH0001,Parker,Cruz,1,2017-07-08,DEV-367931,2022-09-14,Active,,GRP037,Early Arrivers,61,0,0,"hallway-sprinter , bus-loop-linger",Frequent early arrivals at main entrance.
+STD00149,SCH0001,Mason,Harris,K,2018-03-10,DEV-403507,2024-01-28,Active,,GRP008,Cafeteria Corner,51,0,0,,Lunch line disputes reported by staff.
+STD00150,SCH0001,Scarlett,Gonzalez,3,2015-03-01,DEV-444061,2023-05-18,Active,,GRP026,PE Pace Setters,38,0,0,,Lunch line disputes reported by staff.
+STD00151,SCH0001,Leo,Roberts,7,2011-01-04,DEV-225812,2023-01-25,Active,,GRP036,Sunset Walkers,35,0,0,,Frequent early arrivals at main entrance.
+STD00152,SCH0001,Henry,Miller,3,2015-12-18,DEV-108105,2021-09-11,Active,,GRP022,Quiet Corner,44,0,1,,Strong peer influence in group.
+STD00153,SCH0001,Grace,Williams,2,2016-01-19,DEV-621546,2022-08-31,Active,,GRP008,Cafeteria Corner,35,0,0,hallway-sprinter,Quiet but tends to wander halls.
+STD00154,SCH0001,James,Murphy,2,2016-04-11,DEV-883301,2023-01-16,Active,,GRP037,Early Arrivers,54,0,0,late-arrival-pattern,Lunch line disputes reported by staff.
+STD00155,SCH0001,Elizabeth,Rivera,3,2015-06-24,DEV-551574,2023-09-10,Active,,GRP030,Sports Meds,42,0,0,,
+STD00156,SCH0001,Brooklyn,Mitchell,K,2018-10-08,DEV-284229,2022-10-03,Active,,GRP025,Tech Helpers,54,0,0,conflict-prone,
+STD00157,SCH0001,James,White,6,2012-01-07,DEV-235461,2022-10-05,Withdrawn,2024-03-12,GRP032,STEM Sparks,74,0,0,bathroom-loitering;late-arrival-pattern,
+STD00158,SCH0001,Ava,Mitchell,8,2010-09-24,DEV-498676,2020-11-28,Active,,GRP024,Kindness Captains,96,1,1,device-tamper|restricted-area-curiosity,
+STD00159,SCH0001,Finley,Gomez,6,2012-04-07,DEV-658453,2021-08-02,Active,,GRP006,Soccer Squad,56,0,0,conflict-prone/frequent-nurse-visits,
+STD00160,SCH0001,Piper,Hall,7,2011-11-06,DEV-837852,2022-05-08,Active,,GRP030,Sports Meds,77,0,0,boundary-testing;conflict-prone;bathroom-loitering,Badge scan mismatch vs device ping (one time).
+STD00161,SCH0001,Aaron,Collins,6,2012-07-01,DEV-341288,,Active,,GRP035,Team Homework,50,0,0,late-arrival-pattern,Strong peer influence in group.
+STD00162,SCH0001,Emily,Wilson,4,2014-01-15,DEV-624563,2023-11-06,Active,,GRP013,Music Room Regulars,32,0,0,,Lunch line disputes reported by staff.
+STD00163,SCH0001,Emerson,Wilson,K,2018-10-21,DEV-685864,2021-01-08,Active,,GRP030,Sports Meds,56,0,0,quiet-observer,Parent requested device strap replacement.
+STD00164,SCH0001,Mia,Roberts,4,2014-01-10,DEV-714953,2022-06-01,Active,,GRP008,Cafeteria Corner,35,0,0,model-citizen,Swapped device with friend once (unclear).
+STD00165,SCH0001,Samuel,Lopez,2,2016-08-19,DEV-800499,2022-10-26,Active,,GRP020,Drama Circle,48,0,1,device-tamper;model-citizen,Badge scan mismatch vs device ping (one time).
+STD00166,SCH0001,Grace,Hernandez,3,2015-05-25,DEV-945362,2021-03-19,Active,,GRP032,STEM Sparks,57,0,0,frequent-nurse-visits;late-arrival-pattern,Lunch line disputes reported by staff.
+STD00167,SCH0001,Eli,Miller,2,2016-04-07,DEV-471371,2023-09-14,Active,,GRP012,Aftercare Friends,54,0,0,late-arrival-pattern,Seen near back gate during aftercare pickup.
+STD00168,SCH0001,Finley,Lewis,7,2011-04-18,DEV-175576,2021-05-17,Active,,GRP006,Soccer Squad,50,0,0,"late-arrival-pattern , boundary-testing",Frequent early arrivals at main entrance.
+STD00169,SCH0001,Mia,Martinez,K,2018-07-22,DEV-516359,2023-12-08,Active,,GRP018,Group Project Gang,50,0,0,,
+STD00170,SCH0001,Nathan,Brown,8,2010-01-08,DEV-878086,2023-11-30,Active,,GRP019,Gamer Chat,59,0,0,,
+STD00171,SCH0001,Victoria,Robinson,8,2010-03-11,DEV-144357,2022-09-22,Active,,GRP002,Bus Loop Buddies,89,1,0,"restricted-area-curiosity , bathroom-loitering",Seen near back gate during aftercare pickup.
+STD00172,SCH0001,James,Ramirez,7,2011-11-05,DEV-726928,2021-05-10,Active,,GRP028,Study Hall Squad,36,0,0,,Badge scan mismatch vs device ping (one time).
+STD00173,SCH0001,Layla,Martin,1,2017-12-01,DEV-119651,2022-11-21,Active,,GRP001,Library Crew,89,1,1,conflict-prone;restricted-area-curiosity;device-tamper,
+STD00174,SCH0001,Bella,Scott,2,2016-10-19,DEV-582087,2020-09-23,Active,,GRP033,Creative Crew,35,0,0,model-citizen;bus-loop-linger,
+STD00175,SCH0001,Wyatt,Garcia,6,2012-07-25,DEV-181644,2021-10-30,Active,,GRP010,Hallway Hustle,12,0,0,quiet-observer,Device reported low battery twice this month.
+STD00176,SCH0001,Olivia,Roberts,7,2011-12-11,DEV-428267,2023-08-04,Active,,GRP007,Skatepark Stories,41,0,0,model-citizen,Quiet but tends to wander halls.
+STD00177,SCH0001,Olivia,Gomez,8,2010-09-25,DEV-703727,2022-10-25,Active,,GRP036,Sunset Walkers,56,0,0,wanderer,
+STD00178,SCH0001,Elijah,Harris,8,2010-10-23,DEV-550137,2020-09-21,Active,,GRP012,Aftercare Friends,84,0,1,device-tamper;conflict-prone,
+STD00179,SCH0001,Aaron,Mitchell,3,2015-02-17,DEV-701253,2024-01-06,Active,,GRP013,Music Room Regulars,34,0,0,wanderer,Badge scan mismatch vs device ping (one time).
+STD00180,SCH0001,Zoey,Green,1,2017-12-25,DEV-524068,,Active,,GRP037,Early Arrivers,21,0,0,quiet-observer,Device reported low battery twice this month.
+STD00181,SCH0001,Thomas,Reyes,5,2013-07-15,DEV-843963,2023-08-26,Active,,GRP025,Tech Helpers,77,0,0,,
+STD00182,SCH0001,Ariana,Flores,K,2018-06-03,DEV-771237,2022-03-06,Active,,GRP021,Bike Rack Crew,49,0,0,,Frequent early arrivals at main entrance.
+STD00183,SCH0001,Isaac,Martinez,2,2016-07-27,DEV-537983,2022-02-14,Active,,GRP026,PE Pace Setters,45,0,0,,Badge scan mismatch vs device ping (one time).
+STD00184,SCH0001,Ariana,Adams,7,2011-05-17,DEV-403578,2024-01-11,Withdrawn,2024-02-23,GRP034,Weekend Warriors,55,0,1,,Parent requested device strap replacement.
+STD00185,SCH0001,Carter,Diaz,K,2018-07-02,DEV-220768,2020-08-24,Active,,GRP022,Quiet Corner,30,0,0,peer-leader,Swapped device with friend once (unclear).
+STD00186,SCH0001,Bella,Jones,3,2015-03-07,DEV-524707,2023-03-30,Suspended,,GRP017,Snack Sharers,55,0,0,conflict-prone/model-citizen,Quiet but tends to wander halls.
+STD00187,SCH0001,Layla,Brown,3,2015-04-19,DEV-121869,2023-10-09,Active,,GRP002,Bus Loop Buddies,72,0,0,peer-leader/restricted-area-curiosity,Frequent early arrivals at main entrance.
+STD00188,SCH0001,Layla,Garcia,7,2011-05-14,DEV-440544,2022-04-12,Active,,GRP028,Study Hall Squad,39,0,0,,Quiet but tends to wander halls.
+STD00189,SCH0001,Samuel,Morales,8,2010-12-28,DEV-280222,2021-02-18,Active,,GRP011,Morning Walkers,50,0,1,late-arrival-pattern|model-citizen,Parent requested device strap replacement.
+STD00190,SCH0001,Amelia,Baker,5,2013-08-02,DEV-940247,2020-09-16,Active,,GRP016,Sticker Traders,51,0,0,,Frequent early arrivals at main entrance.
+STD00191,SCH0001,Victoria,Thomas,2,2016-01-20,DEV-748151,2023-08-31,Active,,GRP035,Team Homework,42,0,0,,Lunch line disputes reported by staff.
+STD00192,SCH0001,Sophia,Morris,7,2011-11-02,DEV-582446,2021-08-02,Active,,GRP017,Snack Sharers,61,0,0,wanderer,Parent requested device strap replacement.
+STD00193,SCH0001,Lucas,Stewart,4,2014-10-05,DEV-972442,2021-02-16,Active,,GRP024,Kindness Captains,52,0,0,,Seen near back gate during aftercare pickup.
+STD00194,SCH0001,Matthew,Nelson,K,2018-08-16,DEV-823108,2023-03-03,Active,,GRP026,PE Pace Setters,59,0,0,bathroom-loitering|quiet-observer,Frequent early arrivals at main entrance.
+STD00195,SCH0001,Lincoln,Turner,7,2011-04-20,DEV-479430,2020-12-14,Active,,GRP012,Aftercare Friends,22,0,0,quiet-observer,Parent requested device strap replacement.
+STD00196,SCH0001,Emerson,Murphy,K,2018-02-19,DEV-192410,2023-01-29,Active,,GRP005,Art Cartel,73,0,0,hallway-sprinter|quiet-observer,Strong peer influence in group.
+STD00197,SCH0001,Aiden,Martin,K,2018-11-05,DEV-557925,2023-02-02,Active,,GRP024,Kindness Captains,78,0,0,"conflict-prone , boundary-testing , bathroom-loitering",Strong peer influence in group.
+STD00198,SCH0001,Lincoln,Moore,7,2011-05-02,DEV-985506,2023-09-21,Active,,GRP002,Bus Loop Buddies,52,0,0,,Swapped device with friend once (unclear).
+STD00199,SCH0001,Quinn,Lewis,K,2018-11-06,DEV-211005,2022-08-08,Active,,GRP006,Soccer Squad,87,0,1,,Lunch line disputes reported by staff.
+STD00200,SCH0001,Abigail,Lopez,1,2017-03-21,DEV-355135,2023-12-21,Active,,GRP016,Sticker Traders,82,0,0,boundary-testing/conflict-prone,Badge scan mismatch vs device ping (one time).
+STD00201,SCH0001,Piper,Scott,3,2015-07-18,DEV-556839,2023-04-17,Active,,GRP025,Tech Helpers,62,0,0,,Strong peer influence in group.
+STD00202,SCH0001,Thomas,Hernandez,5,2013-11-21,DEV-717476,,Active,,GRP005,Art Cartel,75,0,0,"conflict-prone , boundary-testing , restricted-area-curiosity",Strong peer influence in group.
+STD00203,SCH0001,Reese,Wright,4,2014-01-21,DEV-519902,2022-03-21,Active,,GRP014,New Kids Table,69,0,0,bathroom-loitering;hallway-sprinter,Frequent early arrivals at main entrance.
+STD00204,SCH0001,Elijah,White,1,2017-10-24,DEV-649414,2022-01-18,Active,,GRP006,Soccer Squad,18,0,0,model-citizen,
+STD00205,SCH0001,Mateo,Gomez,K,2018-04-22,DEV-182467,2023-11-07,Active,,GRP004,Chess Club-ish,45,0,0,model-citizen,Lunch line disputes reported by staff.
+STD00206,SCH0001,Rowan,Cruz,6,2012-01-10,DEV-514991,2023-07-22,Active,,GRP028,Study Hall Squad,63,0,0,wanderer,
+STD00207,SCH0001,Jude,Phillips,4,2014-08-25,DEV-425346,2021-09-04,Active,,GRP006,Soccer Squad,79,0,1,device-tamper,Quiet but tends to wander halls.
+STD00208,SCH0001,Aaron,Rivera,6,2012-04-24,DEV-882033,2024-01-31,Active,,GRP024,Kindness Captains,25,0,0,peer-leader,Swapped device with friend once (unclear).
+STD00209,SCH0001,Reese,Harris,3,2015-02-23,DEV-456005,2021-01-03,Active,,GRP028,Study Hall Squad,19,0,0,peer-leader,Frequent early arrivals at main entrance.
+STD00210,SCH0001,Isaac,Gomez,2,2016-06-02,DEV-332335,2020-12-21,Active,,GRP003,Playground Pack,49,0,0,bathroom-loitering,Lunch line disputes reported by staff.
+STD00211,SCH0001,Harper,Garcia,5,2013-02-03,DEV-449247,2023-05-17,Withdrawn,,GRP002,Bus Loop Buddies,13,0,0,quiet-observer,Lunch line disputes reported by staff.
+STD00212,SCH0001,Lincoln,Martinez,3,2013-12-27,DEV-916964,2023-08-02,Active,,GRP009,Science Lab Rats,48,0,0,"frequent-nurse-visits , bathroom-loitering",Frequent early arrivals at main entrance.
+STD00213,SCH0001,Jackson,Miller,5,2013-07-22,DEV-276299,2022-08-06,Active,,GRP037,Early Arrivers,57,0,0,,Quiet but tends to wander halls.
+STD00214,SCH0001,Eden,Collins,K,2018-01-02,,2024-01-12,Active,,GRP019,Gamer Chat,33,0,0,,
+STD00215,SCH0001,Noah,Morris,1,,DEV-635280,2020-11-11,Active,,GRP018,Group Project Gang,49,0,0,bathroom-loitering;group-magnet,Seen near back gate during aftercare pickup.
+STD00216,SCH0001,Lincoln,Nelson,5,2013-02-22,DEV-763984,2021-10-11,Active,,GRP004,Chess Club-ish,67,0,0,,Lunch line disputes reported by staff.
+STD00217,SCH0001,Jude,Miller,1,2017-03-04,DEV-219565,2024-01-03,Active,,GRP027,Field Trip Friends,79,0,0,bathroom-loitering/conflict-prone/restricted-area-curiosity,Parent requested device strap replacement.
+STD00218,SCH0001,Aaron,Turner,1,2017-04-06,DEV-656379,2023-05-21,Active,,GRP037,Early Arrivers,24,0,0,,Quiet but tends to wander halls.
+STD00219,SCH0001,Brooklyn,Mitchell,5,2013-09-17,DEV-634723,2023-09-29,Active,,GRP019,Gamer Chat,47,0,0,model-citizen,Device reported low battery twice this month.
+STD00220,SCH0001,Matthew,Reyes,K,2018-01-04,DEV-303322,2020-09-29,Active,,GRP036,Sunset Walkers,48,0,0,"wanderer , conflict-prone",Device reported low battery twice this month.
+STD00221,SCH0001,Mateo,Clark,3,2015-07-08,DEV-913934,2023-01-10,Active,,GRP017,Snack Sharers,51,0,0,,Device reported low battery twice this month.
+STD00222,SCH0001,Liam,Rodriguez,1,2017-05-05,DEV-466346,2022-07-05,Active,,GRP024,Kindness Captains,65,0,0,restricted-area-curiosity;wanderer,Lunch line disputes reported by staff.
+STD00223,SCH0001,Avery,Morris,2,2014-07-24,DEV-468154,2023-01-07,Active,,GRP022,Quiet Corner,39,0,0,late-arrival-pattern|quiet-observer,Quiet but tends to wander halls.
+STD00224,SCH0001,Rowan,Phillips,K,2018-08-26,DEV-862712,2023-09-04,Active,,GRP010,Hallway Hustle,40,0,1,boundary-testing,
+STD00225,SCH0001,Emerson,Jones,1,2017-08-15,DEV-958729,2022-08-29,Active,,GRP013,Music Room Regulars,73,0,0,bus-loop-linger,Badge scan mismatch vs device ping (one time).
+STD00226,SCH0001,Quinn,Ramirez,3,2015-11-03,DEV-776796,2023-06-21,Active,,GRP020,Drama Circle,75,0,1,boundary-testing;device-tamper,Badge scan mismatch vs device ping (one time).
+STD00227,SCH0001,Carter,Jackson,8,2010-06-08,DEV-954628,2023-11-02,Active,,GRP008,Cafeteria Corner,60,0,0,conflict-prone,Seen near back gate during aftercare pickup.
+STD00228,SCH0001,Piper,Taylor,K,2018-08-23,DEV-254864,2023-02-12,Active,,GRP035,Team Homework,56,0,0,,
+STD00229,SCH0001,Isabella,Anderson,8,2010-03-09,DEV-347745,2021-09-23,Active,,GRP027,Field Trip Friends,48,0,0,restricted-area-curiosity/model-citizen,Device reported low battery twice this month.
+STD00230,SCH0001,Scarlett,Baker,4,2014-07-19,DEV-207798,2023-11-29,Active,,GRP025,Tech Helpers,33,0,0,"restricted-area-curiosity , hallway-sprinter",Frequent early arrivals at main entrance.
+STD00231,SCH0001,Ethan,Martin,K,2018-06-10,DEV-253557,2023-08-02,Active,,GRP030,Sports Meds,36,0,0,hallway-sprinter|restricted-area-curiosity,
+STD00232,SCH0001,Julian,Harris,2,2016-04-18,DEV-368402,2021-05-30,Active,,GRP029,Band Buddies,24,0,0,model-citizen,Seen near back gate during aftercare pickup.
+STD00233,SCH0001,Quinn,Rogers,7,2011-06-21,DEV-306854,2023-10-19,Active,,GRP037,Early Arrivers,38,0,0,bus-loop-linger,Quiet but tends to wander halls.
+STD00234,SCH0001,Sophia,Evans,3,2015-10-27,DEV-281926,2023-12-29,Active,,GRP017,Snack Sharers,31,0,0,,Parent requested device strap replacement.
+STD00235,SCH0001,Sage,Phillips,6,2012-04-16,DEV-731661,2022-08-10,Active,,GRP008,Cafeteria Corner,80,0,0,conflict-prone,
+STD00236,SCH0001,Eli,Diaz,5,2013-08-10,DEV-260295,2024-01-29,Active,,GRP029,Band Buddies,66,0,0,conflict-prone/bathroom-loitering,Frequent early arrivals at main entrance.
+STD00237,SCH0001,Parker,Stewart,4,2014-12-19,DEV-897143,2022-09-21,Active,,GRP008,Cafeteria Corner,51,0,0,boundary-testing/model-citizen,
+STD00238,SCH0001,Thomas,Taylor,3,2015-11-22,DEV-896028,2023-11-10,Active,,GRP022,Quiet Corner,34,0,0,wanderer,Lunch line disputes reported by staff.
+STD00239,SCH0001,Evelyn,Carter,6,2012-09-24,DEV-787351,2020-11-28,Active,,GRP036,Sunset Walkers,31,0,0,,
+STD00240,SCH0001,Rowan,Hernandez,5,2013-09-07,DEV-179013,2021-07-09,Active,,GRP034,Weekend Warriors,47,0,0,boundary-testing,
+STD00241,SCH0001,Kai,Nguyen,6,2012-06-25,DEV-285751,2021-02-26,Active,,GRP014,New Kids Table,67,0,0,wanderer|bus-loop-linger,
+STD00242,SCH0001,Noah,Morales,2,2016-06-10,DEV-910389,2023-12-07,Active,,GRP007,Skatepark Stories,84,0,1,device-tamper;restricted-area-curiosity;bathroom-loitering,Frequent early arrivals at main entrance.
+STD00243,SCH0001,James,Lopez,K,2018-07-23,DEV-758452,2023-04-19,Withdrawn,,GRP006,Soccer Squad,25,0,0,quiet-observer,
+STD00244,SCH0001,Evelyn,Ramirez,8,2010-10-07,DEV-618119,2022-02-20,Active,,GRP024,Kindness Captains,60,0,1,wanderer|device-tamper,Strong peer influence in group.
+STD00245,SCH0001,Rowan,Lewis,K,2018-12-07,DEV-586490,2020-08-09,Active,,GRP030,Sports Meds,38,0,0,model-citizen;conflict-prone,
+STD00246,SCH0001,Isaac,Parker,1,2017-04-17,DEV-891093,2021-04-11,Active,,GRP018,Group Project Gang,41,0,0,peer-leader,Frequent early arrivals at main entrance.
+STD00247,SCH0001,Zoey,Edwards,8,2010-04-18,DEV-691119,2020-12-21,Active,,GRP026,PE Pace Setters,51,0,0,,Quiet but tends to wander halls.
+STD00248,SCH0001,Lucas,Taylor,2,2016-03-13,DEV-896788,2023-10-21,Active,,GRP034,Weekend Warriors,35,0,0,,Badge scan mismatch vs device ping (one time).
+STD00249,SCH0001,Ivy,Scott,7,2011-11-13,DEV-707616,2023-04-20,Withdrawn,,GRP020,Drama Circle,46,0,0,restricted-area-curiosity|late-arrival-pattern,
+STD00250,SCH0001,Isaac,Nelson,3,2015-03-10,DEV-570711,2023-07-01,Suspended,,GRP016,Sticker Traders,34,0,0,peer-leader,
+STD00251,SCH0001,Liam,Cruz,3,2015-02-13,DEV-814220,2024-01-21,Active,,GRP009,Science Lab Rats,40,0,0,,
+STD00252,SCH0001,Jordan,Morris,4,2014-08-18,DEV-691912,2023-05-11,Active,,GRP007,Skatepark Stories,64,0,0,,Seen near back gate during aftercare pickup.
+STD00253,SCH0001,Jude,Jones,6,2012-11-11,DEV-774225,2022-11-22,Active,,GRP037,Early Arrivers,52,0,0,,
+STD00254,SCH0001,Liam,Reyes,3,2015-11-28,DEV-766158,2020-09-11,Active,,GRP010,Hallway Hustle,64,0,0,conflict-prone,Seen near back gate during aftercare pickup.
+STD00255,SCH0001,Samuel,Thompson,3,2015-10-10,DEV-754858,2021-01-02,Active,,GRP027,Field Trip Friends,20,0,0,peer-leader,Badge scan mismatch vs device ping (one time).
+STD00256,SCH0001,Logan,Hall,6,2012-05-03,DEV-438908,2022-07-13,Active,,GRP024,Kindness Captains,55,0,0,frequent-nurse-visits,Quiet but tends to wander halls.
+STD00257,SCH0001,Riley,Harris,K,2018-01-21,DEV-757685,2021-10-11,Active,,GRP020,Drama Circle,1,0,0,peer-leader,
+STD00258,SCH0001,Gabriel,Stewart,6,2012-03-08,DEV-431495,2023-01-09,Active,,GRP036,Sunset Walkers,23,0,0,quiet-observer,Strong peer influence in group.
+STD00259,SCH0001,Jayden,Thomas,2,2014-05-15,DEV-258290,2022-12-13,Active,,GRP038,Late Bus League,64,0,0,hallway-sprinter,Badge scan mismatch vs device ping (one time).
+STD00260,SCH0001,Noah,Rodriguez,3,2015-02-11,DEV-561124,2022-11-12,Active,,GRP029,Band Buddies,100,1,1,restricted-area-curiosity|bathroom-loitering|device-tamper,Quiet but tends to wander halls.
+STD00261,SCH0001,Jude,King,K,2018-08-03,DEV-171603,2022-06-06,Active,,GRP022,Quiet Corner,21,0,0,quiet-observer,Lunch line disputes reported by staff.
+STD00262,SCH0001,Ivy,Rodriguez,4,2014-08-18,DEV-591699,2022-12-16,Active,,GRP008,Cafeteria Corner,39,0,0,,Strong peer influence in group.
+STD00263,SCH0001,Ethan,Young,2,2016-05-18,DEV-563688,2021-04-07,Active,,GRP020,Drama Circle,19,0,0,quiet-observer,Device reported low battery twice this month.
+STD00264,SCH0001,Henry,Edwards,5,2013-11-11,DEV-762055,2020-10-09,Active,,GRP024,Kindness Captains,76,0,0,boundary-testing|conflict-prone|bathroom-loitering,Quiet but tends to wander halls.
+STD00265,SCH0001,Dylan,Nelson,4,2012-01-21,DEV-417530,2023-10-22,Active,,GRP031,Book Fair Brigade,60,0,0,,Seen near back gate during aftercare pickup.
+STD00266,SCH0001,Abigail,Wright,2,2016-03-22,DEV-935012,2021-01-20,Active,,GRP006,Soccer Squad,46,0,1,device-tamper;late-arrival-pattern,Lunch line disputes reported by staff.
+STD00267,SCH0001,Ella,Davis,K,2018-07-20,DEV-388016,2022-08-24,Suspended,,GRP011,Morning Walkers,80,0,1,boundary-testing;device-tamper,Frequent early arrivals at main entrance.
+STD00268,SCH0001,Eden,Roberts,6,2012-03-14,DEV-720148,2022-03-03,Active,,GRP010,Hallway Hustle,59,0,0,,Device reported low battery twice this month.
+STD00269,SCH0001,Nathan,Lopez,6,2012-01-16,DEV-158900,2021-10-09,Active,,GRP003,Playground Pack,78,0,0,,Seen near back gate during aftercare pickup.
+STD00270,SCH0001,Nova,Miller,1,2017-01-09,DEV-469038,2024-01-22,Active,,GRP014,New Kids Table,39,0,0,conflict-prone,Swapped device with friend once (unclear).
+STD00271,SCH0001,Elijah,Adams,2,2016-01-05,DEV-631981,2022-08-09,Active,,GRP012,Aftercare Friends,61,0,0,peer-leader,
+STD00272,SCH0001,Eli,Davis,5,2013-04-05,DEV-177794,2021-07-01,Active,,GRP004,Chess Club-ish,60,0,0,,Badge scan mismatch vs device ping (one time).
+STD00273,SCH0001,Evelyn,Rivera,2,2016-02-07,DEV-425486,2023-06-08,Active,,GRP024,Kindness Captains,69,0,0,,Lunch line disputes reported by staff.
+STD00274,SCH0001,Matthew,Jones,3,2015-05-22,DEV-584172,2021-03-06,Active,,GRP007,Skatepark Stories,45,1,0,"model-citizen , group-magnet",
+STD00275,SCH0001,Aaron,Nelson,5,2013-12-24,DEV-573866,2020-11-08,Active,,GRP018,Group Project Gang,67,0,0,"wanderer , quiet-observer",Swapped device with friend once (unclear).
+STD00276,SCH0001,Carter,Perez,6,2012-07-25,DEV-139434,2024-01-04,Active,,GRP004,Chess Club-ish,38,0,0,wanderer|restricted-area-curiosity,Lunch line disputes reported by staff.
+STD00277,SCH0001,Caleb,Morris,7,2011-05-19,DEV-159653,2022-08-25,Active,,GRP030,Sports Meds,15,0,0,quiet-observer,Lunch line disputes reported by staff.
+STD00278,SCH0001,Rowan,Lopez,K,2018-05-15,,2021-06-01,Active,,GRP036,Sunset Walkers,80,0,1,conflict-prone|device-tamper,Quiet but tends to wander halls.
+STD00279,SCH0001,Logan,Stewart,1,2017-11-24,DEV-972097,,Active,,GRP030,Sports Meds,65,0,0,,Frequent early arrivals at main entrance.
+STD00280,SCH0001,Nathan,Collins,4,2014-10-26,DEV-401022,2021-08-19,Active,,GRP020,Drama Circle,10,0,1,peer-leader,
+STD00281,SCH0001,Nathan,Evans,5,2013-11-24,DEV-180458,2024-01-16,Active,,GRP029,Band Buddies,23,0,1,quiet-observer,
+STD00282,SCH0001,Sebastian,Jones,4,2014-04-16,DEV-775981,2023-08-09,Active,,GRP008,Cafeteria Corner,71,0,0,,Lunch line disputes reported by staff.
+STD00283,SCH0001,Aaron,Allen,K,2018-04-10,DEV-996840,2023-12-20,Active,,GRP025,Tech Helpers,61,0,0,bus-loop-linger|peer-leader,Strong peer influence in group.
+STD00284,SCH0001,Jordan,Walker,4,2014-12-02,DEV-194682,2020-12-09,Active,,GRP010,Hallway Hustle,91,1,0,conflict-prone;boundary-testing;bathroom-loitering,Device reported low battery twice this month.
+STD00285,SCH0001,Eli,Walker,3,2015-09-08,DEV-744883,2023-11-15,Active,,GRP010,Hallway Hustle,42,0,0,frequent-nurse-visits/bus-loop-linger,Strong peer influence in group.
+STD00286,SCH0001,Amelia,Morales,2,2016-03-06,DEV-722937,2022-11-30,Active,,GRP005,Art Cartel,35,0,0,,Quiet but tends to wander halls.
+STD00287,SCH0001,Mason,Hall,7,2011-07-04,DEV-631699,2022-01-11,Active,,GRP038,Late Bus League,51,0,0,boundary-testing|restricted-area-curiosity,Lunch line disputes reported by staff.
+STD00288,SCH0001,Elijah,Anderson,1,2017-10-20,DEV-503159,2020-10-25,Active,,GRP028,Study Hall Squad,41,0,0,restricted-area-curiosity,
+STD00289,SCH0001,Gabriel,Baker,6,2012-03-04,DEV-585188,2020-08-14,Active,,GRP036,Sunset Walkers,69,0,0,,
+STD00290,SCH0001,Rowan,Diaz,4,2014-04-05,DEV-708519,2023-02-26,Active,,GRP028,Study Hall Squad,41,0,0,restricted-area-curiosity,
+STD00291,SCH0001,Anthony,Garcia,2,2016-11-21,DEV-681242,2023-07-01,Active,,GRP002,Bus Loop Buddies,45,0,1,bus-loop-linger,Quiet but tends to wander halls.
+STD00292,SCH0001,Benjamin,Evans,6,2012-08-21,DEV-930281,2023-01-23,Active,,GRP005,Art Cartel,32,0,0,,Badge scan mismatch vs device ping (one time).
+STD00293,SCH0001,James,Nguyen,K,2018-04-03,DEV-874814,2024-01-17,Active,,GRP009,Science Lab Rats,64,0,0,quiet-observer|peer-leader,Quiet but tends to wander halls.
+STD00294,SCH0001,Ethan,Taylor,1,2018-06-08,DEV-143015,2023-11-05,Active,,GRP010,Hallway Hustle,33,0,1,device-tamper;conflict-prone,Quiet but tends to wander halls.
+STD00295,SCH0001,Harper,Nelson,1,2017-09-19,DEV-571579,2021-05-28,Active,,GRP012,Aftercare Friends,57,0,0,,Swapped device with friend once (unclear).
+STD00296,SCH0001,Kai,Phillips,8,2010-05-19,DEV-949153,2023-04-30,Active,,GRP029,Band Buddies,84,0,0,boundary-testing|restricted-area-curiosity,
+STD00297,SCH0001,Parker,Carter,4,2014-02-20,DEV-699425,2023-10-10,Active,,GRP024,Kindness Captains,18,0,0,quiet-observer,
+STD00298,SCH0001,Zoey,Nguyen,6,2012-04-06,DEV-783501,2023-09-12,Active,,GRP022,Quiet Corner,77,0,0,boundary-testing;bathroom-loitering,Lunch line disputes reported by staff.
+STD00299,SCH0001,Aaron,Lee,4,2014-12-11,DEV-297383,2022-10-03,Active,,GRP006,Soccer Squad,55,0,0,bus-loop-linger,Strong peer influence in group.
+STD00300,SCH0001,Zoey,Taylor,2,2016-11-18,DEV-437145,2020-11-17,Active,,GRP023,Lunch Line Legends,30,0,0,,Device reported low battery twice this month.
+STD00301,SCH0001,Jude,Edwards,6,2012-02-26,DEV-734394,2023-05-04,Active,,GRP004,Chess Club-ish,52,0,0,conflict-prone|quiet-observer,Frequent early arrivals at main entrance.
+STD00302,SCH0001,Leo,Gonzalez,3,2015-03-10,DEV-598733,2022-05-29,Active,,GRP026,PE Pace Setters,63,0,0,,
+STD00303,SCH0001,Jayden,Young,3,2015-08-17,DEV-625721,2020-12-03,Active,,GRP015,Notebook Ninjas,19,0,0,peer-leader,Parent requested device strap replacement.
+STD00304,SCH0001,Parker,,3,2015-05-19,DEV-258189,2021-09-21,Active,,GRP015,Notebook Ninjas,26,0,0,,
+STD00305,SCH0001,Ryan,Hill,2,2014-08-09,DEV-164879,2022-09-18,Active,,GRP018,Group Project Gang,84,0,1,device-tamper|restricted-area-curiosity,Swapped device with friend once (unclear).
+STD00306,SCH0001,Abigail,Torres,K,2018-07-07,DEV-572407,2022-07-03,Active,,GRP006,Soccer Squad,48,0,1,"conflict-prone , group-magnet",Parent requested device strap replacement.
+STD00307,SCH0001,Ariana,Morris,2,2016-01-01,DEV-208529,2023-04-29,Active,,GRP002,Bus Loop Buddies,64,0,0,,Swapped device with friend once (unclear).
+STD00308,SCH0001,Joseph,Gomez,K,,DEV-950360,2023-03-06,Withdrawn,2023-09-17,GRP023,Lunch Line Legends,89,1,1,"conflict-prone , restricted-area-curiosity , device-tamper",Badge scan mismatch vs device ping (one time).
+STD00309,SCH0001,Eden,Mitchell,7,2011-01-09,DEV-978053,2020-08-15,Active,,GRP015,Notebook Ninjas,47,0,0,peer-leader;model-citizen,Parent requested device strap replacement.
+STD00310,SCH0001,Jackson,Martinez,2,2016-10-05,DEV-460120,2021-11-10,Active,,GRP014,New Kids Table,42,0,0,,
+STD00311,SCH0001,Ethan,Nelson,1,2017-07-28,DEV-849014,2023-03-14,Active,,GRP015,Notebook Ninjas,72,0,0,,Swapped device with friend once (unclear).
+STD00312,SCH0001,Lucas,Jones,3,2015-12-08,DEV-188425,2021-12-25,Active,,GRP009,Science Lab Rats,46,0,0,,Seen near back gate during aftercare pickup.
+STD00313,SCH0001,Grace,Anderson,8,2010-08-08,DEV-629057,2023-07-01,Active,,GRP032,STEM Sparks,61,0,0,,
+STD00314,SCH0001,Mason,Moore,K,2018-01-26,DEV-777513,2023-09-15,Active,,GRP005,Art Cartel,23,0,0,model-citizen,Parent requested device strap replacement.
+STD00315,SCH0001,Nathan,Gomez,3,2015-08-26,DEV-280941,2020-09-23,Active,,GRP002,Bus Loop Buddies,45,0,0,bus-loop-linger;bathroom-loitering,Quiet but tends to wander halls.
+STD00316,SCH0001,Dylan,Morales,8,2010-12-20,DEV-141043,2024-01-28,Active,,GRP017,Snack Sharers,50,0,0,wanderer,Seen near back gate during aftercare pickup.
+STD00317,SCH0001,Mia,Martin,1,2017-01-08,DEV-359778,2022-12-13,Active,,GRP037,Early Arrivers,26,0,0,,Strong peer influence in group.
+STD00318,SCH0001,Jude,Baker,7,2011-10-10,DEV-841995,2020-10-26,Active,,GRP035,Team Homework,69,0,0,wanderer,Seen near back gate during aftercare pickup.
+STD00319,SCH0001,Isaac,Ramirez,2,2017-01-03,DEV-559022,2023-11-14,Active,,GRP002,Bus Loop Buddies,17,0,1,,
+STD00320,SCH0001,Chloe,White,6,2012-06-28,DEV-560767,2022-01-19,Active,,GRP006,Soccer Squad,32,0,0,,Seen near back gate during aftercare pickup.
+STD00321,SCH0001,Rowan,Cruz,5,2013-12-03,DEV-649525,2021-08-24,Suspended,,GRP021,Bike Rack Crew,59,0,1,device-tamper;late-arrival-pattern,Frequent early arrivals at main entrance.
+STD00322,SCH0001,Lily,Allen,6,2012-01-21,DEV-648141,2023-11-10,Active,,GRP015,Notebook Ninjas,36,0,0,wanderer/bathroom-loitering,Quiet but tends to wander halls.
+STD00323,SCH0001,Kai,Stewart,8,2010-03-11,DEV-739427,2023-05-11,Withdrawn,2024-02-25,GRP016,Sticker Traders,36,0,0,,Frequent early arrivals at main entrance.
+STD00324,SCH0001,Isaac,Perez,4,2014-06-09,DEV-266457,2023-01-28,Active,,GRP004,Chess Club-ish,79,0,0,boundary-testing/bathroom-loitering,Frequent early arrivals at main entrance.
+STD00325,SCH0001,Jackson,Edwards,8,2010-04-09,DEV-481574,2023-05-25,Active,,GRP003,Playground Pack,62,0,0,,Device reported low battery twice this month.
+STD00326,SCH0001,Leo,Flores,6,2012-12-27,DEV-490963,2023-12-21,Active,,GRP010,Hallway Hustle,96,1,1,"device-tamper , conflict-prone",Swapped device with friend once (unclear).
+STD00327,SCH0001,Jude,Williams,3,2015-08-21,DEV-396635,2022-10-24,Active,,GRP017,Snack Sharers,30,0,0,hallway-sprinter/peer-leader,Device reported low battery twice this month.
+STD00328,SCH0001,Dylan,Ramirez,4,2014-08-15,DEV-506235,2021-04-20,Active,,GRP035,Team Homework,75,0,0,conflict-prone/restricted-area-curiosity,Frequent early arrivals at main entrance.
+STD00329,SCH0001,Noah,Garcia,8,2010-03-05,DEV-528625,2023-12-18,Active,,GRP032,STEM Sparks,2,0,0,,Seen near back gate during aftercare pickup.
+STD00330,SCH0001,Aaron,Flores,K,2018-02-06,DEV-912085,2023-12-19,Active,,GRP033,Creative Crew,29,0,1,device-tamper,Seen near back gate during aftercare pickup.
+STD00331,SCH0001,Ella,Nelson,3,2015-07-13,DEV-454803,2023-04-07,Active,,GRP032,STEM Sparks,54,0,0,,Frequent early arrivals at main entrance.
+STD00332,SCH0001,Piper,Reyes,5,2011-03-15,DEV-811875,2021-12-19,Active,,GRP014,New Kids Table,47,0,0,late-arrival-pattern/bus-loop-linger,Frequent early arrivals at main entrance.
+STD00333,SCH0001,Jackson,Diaz,2,2016-04-06,DEV-726928,2021-08-11,Active,,GRP018,Group Project Gang,6,0,0,model-citizen,Badge scan mismatch vs device ping (one time).
+STD00334,SCH0001,Avery,Cook,2,2016-07-25,DEV-154909,2021-03-04,Active,,GRP007,Skatepark Stories,82,0,1,,Parent requested device strap replacement.
+STD00335,SCH0001,Isaac,Hall,8,,DEV-927564,2021-03-23,Active,,GRP017,Snack Sharers,67,0,0,bathroom-loitering,Lunch line disputes reported by staff.
+STD00336,SCH0001,Henry,Thompson,K,2018-01-20,DEV-761532,2022-10-10,Active,,GRP027,Field Trip Friends,79,0,0,conflict-prone|restricted-area-curiosity,Lunch line disputes reported by staff.
+STD00337,SCH0001,Kai,Anderson,1,,DEV-778748,2022-09-12,Active,,GRP018,Group Project Gang,37,0,1,,Device reported low battery twice this month.
+STD00338,SCH0001,Mason,Robinson,5,2013-02-26,DEV-450905,2020-10-30,Active,,GRP011,Morning Walkers,52,0,0,,Device reported low battery twice this month.
+STD00339,SCH0001,Lily,White,8,2011-04-15,DEV-169113,2022-02-22,Active,,GRP011,Morning Walkers,48,0,0,hallway-sprinter,Strong peer influence in group.
+STD00340,SCH0001,Logan,Nelson,1,2017-11-23,DEV-445705,2021-04-30,Active,,GRP026,PE Pace Setters,44,0,0,model-citizen/bathroom-loitering,Device reported low battery twice this month.
+STD00341,SCH0001,Mia,Walker,7,2011-01-20,DEV-199096,2022-12-26,Active,,GRP012,Aftercare Friends,46,0,1,device-tamper,Device reported low battery twice this month.
+STD00342,SCH0001,Nova,Edwards,6,2012-12-11,DEV-685066,2020-10-21,Active,,GRP028,Study Hall Squad,54,0,0,,
+STD00343,SCH0001,Grace,Robinson,4,2014-10-28,DEV-811332,2024-01-04,Active,,GRP005,Art Cartel,55,0,0,,Device reported low battery twice this month.
+STD00344,SCH0001,Lucas,Parker,5,2013-12-15,DEV-505341,2021-07-28,Active,,GRP012,Aftercare Friends,38,0,0,,Swapped device with friend once (unclear).
+STD00345,SCH0001,Thomas,Edwards,3,2015-07-17,DEV-397949,2023-12-07,Active,,GRP030,Sports Meds,33,0,0,wanderer,Lunch line disputes reported by staff.
+STD00346,SCH0001,Parker,Morales,K,2018-02-11,DEV-364236,2024-01-07,Active,,GRP034,Weekend Warriors,20,0,0,quiet-observer,Strong peer influence in group.
+STD00347,SCH0001,Liam,Taylor,2,2016-07-19,DEV-858889,2022-07-15,Active,,GRP007,Skatepark Stories,82,0,0,boundary-testing/bathroom-loitering/conflict-prone,Parent requested device strap replacement.
+STD00348,SCH0001,Sophia,Martin,5,2013-05-20,DEV-992931,2023-12-17,Active,,GRP024,Kindness Captains,28,0,0,,
+STD00349,SCH0001,Sebastian,Parker,4,2014-03-27,DEV-788457,2023-07-28,Active,,GRP017,Snack Sharers,35,0,0,"group-magnet , bathroom-loitering",Device reported low battery twice this month.
+STD00350,SCH0001,Anthony,Green,1,2018-02-25,DEV-731977,2023-07-12,Active,,GRP038,Late Bus League,64,0,0,,
+STD00351,SCH0001,Avery,Harris,8,2010-04-02,DEV-257677,2022-11-16,Active,,GRP017,Snack Sharers,25,0,0,model-citizen,
+STD00352,SCH0001,Adam,Murphy,8,2010-11-25,DEV-449555,2020-08-15,Active,,GRP004,Chess Club-ish,81,0,0,boundary-testing,Seen near back gate during aftercare pickup.
+STD00353,SCH0001,Samuel,Carter,1,2017-11-11,DEV-185461,2022-10-26,Active,,GRP010,Hallway Hustle,40,0,0,,
+STD00354,SCH0001,Evelyn,Torres,8,2010-12-25,DEV-711046,2023-04-01,Active,,GRP021,Bike Rack Crew,93,1,1,"device-tamper , conflict-prone",Parent requested device strap replacement.
+STD00355,SCH0001,Ariana,Murphy,8,2010-07-24,DEV-795847,2023-04-03,Active,,GRP028,Study Hall Squad,49,0,0,wanderer,Badge scan mismatch vs device ping (one time).
+STD00356,SCH0001,James,Cook,3,2015-02-10,DEV-248298,2023-03-15,Active,,GRP028,Study Hall Squad,89,1,0,restricted-area-curiosity,Badge scan mismatch vs device ping (one time).
+STD00357,SCH0001,Lily,Gomez,3,2015-05-08,DEV-466813,2021-04-10,Active,,GRP028,Study Hall Squad,62,0,1,conflict-prone|device-tamper,Swapped device with friend once (unclear).
+STD00358,SCH0001,Isaac,Cruz,4,2014-04-08,DEV-425301,2022-06-28,Active,,GRP020,Drama Circle,27,1,0,restricted-area-curiosity,
+STD00359,SCH0001,Sebastian,Gomez,2,2016-07-11,DEV-787923,2021-04-16,Active,,GRP035,Team Homework,52,0,0,"group-magnet , model-citizen",Lunch line disputes reported by staff.
+STD00360,SCH0001,Nora,Martin,K,2018-12-22,DEV-832409,2022-05-18,Active,,GRP031,Book Fair Brigade,21,0,0,peer-leader,Swapped device with friend once (unclear).
+STD00361,SCH0001,Matthew,Lee,8,2010-12-07,DEV-794299,2020-11-16,Active,,GRP015,Notebook Ninjas,60,0,0,group-magnet,Seen near back gate during aftercare pickup.
+STD00362,SCH0001,Thomas,Rivera,1,2017-07-13,DEV-510997,2021-09-04,Active,,GRP017,Snack Sharers,42,0,0,,Parent requested device strap replacement.
+STD00363,SCH0001,Abigail,Edwards,6,2012-12-16,DEV-235215,,Active,,GRP016,Sticker Traders,59,0,0,hallway-sprinter/restricted-area-curiosity,
+STD00364,SCH0001,Thomas,White,4,2014-01-04,DEV-723945,2021-06-01,Active,,GRP017,Snack Sharers,98,1,0,conflict-prone/restricted-area-curiosity,Parent requested device strap replacement.
+STD00365,SCH0001,Ryan,Roberts,7,2011-05-21,DEV-843266,2024-01-09,Active,,GRP015,Notebook Ninjas,17,0,0,quiet-observer,Lunch line disputes reported by staff.
+STD00366,SCH0001,Andrew,Flores,7,2011-10-05,DEV-530816,2023-08-06,Active,,GRP005,Art Cartel,82,0,1,bathroom-loitering|boundary-testing|device-tamper,Device reported low battery twice this month.
+STD00367,SCH0001,Evelyn,Harris,7,2011-10-23,DEV-424620,2024-01-26,Active,,GRP010,Hallway Hustle,54,0,0,,Quiet but tends to wander halls.
+STD00368,SCH0001,Aiden,Allen,8,2010-05-02,DEV-686072,2023-07-30,Active,,GRP013,Music Room Regulars,23,0,0,quiet-observer,
+STD00369,SCH0001,Sebastian,Martin,7,2011-05-28,DEV-494976,2021-10-17,Active,,GRP026,PE Pace Setters,36,0,0,boundary-testing;group-magnet,Frequent early arrivals at main entrance.
+STD00370,SCH0001,Benjamin,Ramirez,3,2015-02-21,DEV-774751,2021-08-30,Active,,GRP036,Sunset Walkers,60,0,0,,Swapped device with friend once (unclear).
+STD00371,SCH0001,Ariana,Allen,4,2014-02-09,DEV-930117,2020-12-14,Active,,GRP033,Creative Crew,18,0,0,model-citizen,Device reported low battery twice this month.
+STD00372,SCH0001,Harper,Taylor,6,2012-03-17,DEV-444432,2023-11-29,Active,,GRP010,Hallway Hustle,52,0,0,bathroom-loitering/late-arrival-pattern,Parent requested device strap replacement.
+STD00373,SCH0001,Finley,Evans,8,2011-09-23,DEV-952686,2021-04-16,Active,,GRP007,Skatepark Stories,53,0,0,conflict-prone/bus-loop-linger,Seen near back gate during aftercare pickup.
+STD00374,SCH0001,Piper,Nguyen,2,2016-05-14,DEV-234001,2021-11-12,Active,,GRP025,Tech Helpers,61,0,0,group-magnet,
+STD00375,SCH0001,Ava,,7,2011-12-10,DEV-802667,2022-12-17,Active,,GRP031,Book Fair Brigade,23,0,0,peer-leader,Badge scan mismatch vs device ping (one time).
+STD00376,SCH0001,Levi,Rivera,4,2014-04-24,,2023-07-18,Active,,GRP033,Creative Crew,20,0,0,peer-leader,Quiet but tends to wander halls.
+STD00377,SCH0001,Ethan,Parker,3,2015-08-13,DEV-969226,2021-12-25,Active,,GRP019,Gamer Chat,68,0,0,boundary-testing,Device reported low battery twice this month.
+STD00378,SCH0001,Sage,Garcia,1,,DEV-874661,2023-03-01,Active,,GRP034,Weekend Warriors,82,0,0,boundary-testing,Quiet but tends to wander halls.
+STD00379,SCH0001,Emily,Turner,4,2012-11-09,DEV-818709,2022-04-05,Active,,GRP016,Sticker Traders,39,0,0,frequent-nurse-visits,
+STD00380,SCH0001,Sofia,Thomas,5,2013-04-10,DEV-651963,2020-10-04,Active,,GRP035,Team Homework,83,0,1,device-tamper/boundary-testing,Badge scan mismatch vs device ping (one time).
+STD00381,SCH0001,Lincoln,Rogers,5,2013-12-24,DEV-197992,2021-03-09,Active,,GRP012,Aftercare Friends,23,0,0,peer-leader,
+STD00382,SCH0001,Hannah,Nguyen,5,2013-08-03,DEV-777406,2023-06-14,Active,,GRP012,Aftercare Friends,18,0,0,peer-leader,
+STD00383,SCH0001,Piper,Harris,2,2016-04-28,DEV-803024,2021-04-28,Active,,GRP002,Bus Loop Buddies,71,0,0,,Quiet but tends to wander halls.
+STD00384,SCH0001,Scarlett,Robinson,6,2012-06-14,DEV-543973,2023-12-03,Active,,GRP008,Cafeteria Corner,26,0,0,late-arrival-pattern,Device reported low battery twice this month.
+STD00385,SCH0001,Victoria,Wilson,2,2016-07-06,DEV-633188,2023-09-04,Active,,GRP031,Book Fair Brigade,46,0,0,bus-loop-linger,Strong peer influence in group.
+STD00386,SCH0001,Harper,Moore,K,2018-11-24,DEV-479404,2021-08-26,Active,,GRP008,Cafeteria Corner,65,0,0,conflict-prone;boundary-testing,
+STD00387,SCH0001,Riley,King,7,2011-09-12,DEV-119116,2023-12-17,Active,,GRP011,Morning Walkers,61,0,0,,
+STD00388,SCH0001,Sebastian,Phillips,4,2014-08-22,DEV-480211,2023-01-14,Active,,GRP002,Bus Loop Buddies,42,0,1,device-tamper,Strong peer influence in group.
+STD00389,SCH0001,Sage,Reyes,2,2016-09-23,DEV-423869,2022-03-30,Active,,GRP036,Sunset Walkers,18,0,0,model-citizen,
+STD00390,SCH0001,Ethan,Allen,7,2011-04-18,DEV-289019,2022-08-26,Active,,GRP029,Band Buddies,54,0,0,,
+STD00391,SCH0001,Wyatt,Torres,2,2016-03-09,DEV-324597,2023-12-07,Active,,GRP038,Late Bus League,31,0,1,peer-leader;device-tamper,Device reported low battery twice this month.
+STD00392,SCH0001,Anthony,Lee,K,2018-08-08,DEV-458332,2023-10-17,Active,,GRP006,Soccer Squad,69,0,1,"model-citizen , bus-loop-linger",
+STD00393,SCH0001,Ariana,Sanchez,1,2017-02-05,DEV-903373,2024-01-13,Suspended,,GRP007,Skatepark Stories,20,0,0,model-citizen,Parent requested device strap replacement.
+STD00394,SCH0001,James,Allen,6,,DEV-609892,2020-08-20,Active,,GRP035,Team Homework,42,0,1,bathroom-loitering/device-tamper,Frequent early arrivals at main entrance.
+STD00395,SCH0001,Emily,Allen,7,2011-01-18,DEV-301332,2023-11-15,Active,,GRP019,Gamer Chat,66,0,0,,Seen near back gate during aftercare pickup.
+STD00396,SCH0001,Wyatt,Gomez,5,2013-11-23,DEV-337547,2021-03-14,Active,,GRP038,Late Bus League,25,0,0,quiet-observer,
+STD00397,SCH0001,Matthew,Harris,1,2017-11-14,DEV-244247,2022-03-11,Active,,GRP018,Group Project Gang,59,0,0,hallway-sprinter,
+STD00398,SCH0001,Benjamin,Adams,3,2015-03-13,DEV-262471,2023-12-19,Active,,GRP028,Study Hall Squad,31,0,0,,Lunch line disputes reported by staff.
+STD00399,SCH0001,Mateo,Baker,1,2017-03-26,DEV-180913,2023-08-31,Active,,GRP031,Book Fair Brigade,73,0,0,bathroom-loitering,Badge scan mismatch vs device ping (one time).
+STD00400,SCH0001,Amelia,Young,7,2011-06-01,DEV-410160,2023-03-29,Active,,GRP007,Skatepark Stories,57,0,0,,Swapped device with friend once (unclear).
+STD00401,SCH0001,Wyatt,Rodriguez,3,2015-12-05,DEV-985447,2020-09-23,Active,,GRP025,Tech Helpers,15,0,0,,
+STD00402,SCH0001,Benjamin,Lopez,2,2014-07-05,DEV-926403,2021-05-14,Active,,GRP013,Music Room Regulars,66,0,0,model-citizen,Parent requested device strap replacement.
+STD00403,SCH0001,Jackson,Rogers,4,2014-03-01,DEV-206053,2023-02-17,Active,,GRP022,Quiet Corner,55,0,1,"device-tamper , quiet-observer",Quiet but tends to wander halls.
+STD00404,SCH0001,James,Lewis,4,2014-07-20,DEV-632351,2023-09-20,Active,,GRP035,Team Homework,63,0,0,frequent-nurse-visits;quiet-observer,Swapped device with friend once (unclear).
+STD00405,SCH0001,Harper,Anderson,3,2015-02-12,DEV-908320,2022-03-01,Active,,GRP033,Creative Crew,11,0,0,quiet-observer,Frequent early arrivals at main entrance.
+STD00406,SCH0001,Reese,Miller,2,2016-10-26,DEV-665990,2023-12-01,Active,,GRP006,Soccer Squad,75,0,0,boundary-testing|conflict-prone,Quiet but tends to wander halls.
+STD00407,SCH0001,Emily,Jones,6,2012-10-26,DEV-975686,2022-03-18,Active,,GRP013,Music Room Regulars,42,0,1,device-tamper;group-magnet,
+STD00408,SCH0001,Piper,Hall,4,2014-08-26,DEV-874524,2023-12-09,Active,,GRP030,Sports Meds,76,0,0,bathroom-loitering,Frequent early arrivals at main entrance.
+STD00409,SCH0001,Amelia,Cook,2,2016-02-15,DEV-652108,2022-02-25,Active,,GRP029,Band Buddies,42,0,0,boundary-testing,
+STD00410,SCH0001,Reese,Murphy,6,2012-01-12,DEV-139581,2021-04-22,Active,,GRP024,Kindness Captains,45,0,0,,Parent requested device strap replacement.
+STD00411,SCH0001,Ava,Allen,7,2011-12-27,DEV-794083,2022-09-09,Active,,GRP031,Book Fair Brigade,32,0,0,frequent-nurse-visits,Lunch line disputes reported by staff.
+STD00412,SCH0001,Elizabeth,Anderson,1,2017-07-25,DEV-453123,2022-07-03,Active,,GRP005,Art Cartel,36,0,0,,Parent requested device strap replacement.
+STD00413,SCH0001,Reese,Garcia,5,2013-10-25,DEV-903531,2022-12-29,Active,,GRP025,Tech Helpers,17,0,0,peer-leader,
+STD00414,SCH0001,Lucas,Flores,1,2017-12-15,DEV-748052,2022-01-14,Active,,GRP026,PE Pace Setters,31,0,0,restricted-area-curiosity,
+STD00415,SCH0001,Andrew,Campbell,8,2011-10-07,DEV-237414,2023-10-29,Active,,GRP029,Band Buddies,62,0,0,group-magnet|bus-loop-linger,
+STD00416,SCH0001,Layla,Thomas,K,2018-11-14,DEV-726258,2021-04-15,Active,,GRP035,Team Homework,8,0,0,peer-leader,Strong peer influence in group.
+STD00417,SCH0001,David,Ramirez,1,2018-06-01,DEV-495019,2022-04-21,Active,,GRP014,New Kids Table,49,0,0,quiet-observer,Seen near back gate during aftercare pickup.
+STD00418,SCH0001,Jackson,Reyes,K,2018-07-12,DEV-261745,2022-09-21,Active,,GRP034,Weekend Warriors,62,0,0,wanderer|bathroom-loitering,Swapped device with friend once (unclear).
+STD00419,SCH0001,Brooklyn,Wilson,3,2015-11-15,DEV-270128,2022-12-10,Active,,GRP031,Book Fair Brigade,53,0,0,bathroom-loitering,Badge scan mismatch vs device ping (one time).
+STD00420,SCH0001,Anthony,Johnson,7,2011-06-26,DEV-289630,2022-01-24,Active,,GRP014,New Kids Table,59,0,0,,Seen near back gate during aftercare pickup.
+STD00421,SCH0001,Kai,Adams,K,2018-06-06,DEV-971728,2022-10-11,Active,,GRP035,Team Homework,39,0,0,quiet-observer/restricted-area-curiosity,Seen near back gate during aftercare pickup.
+STD00422,SCH0001,Andrew,Walker,4,2014-02-23,DEV-826501,2022-10-12,Active,,GRP030,Sports Meds,40,0,1,device-tamper,Parent requested device strap replacement.
+STD00423,SCH0001,Emily,Jones,2,2016-10-23,DEV-908554,2020-09-21,Active,,GRP009,Science Lab Rats,39,0,0,restricted-area-curiosity,Device reported low battery twice this month.
+STD00424,SCH0001,Isaac,Wright,1,2017-11-02,DEV-755087,2023-10-31,Active,,GRP015,Notebook Ninjas,71,0,0,,Seen near back gate during aftercare pickup.
+STD00425,SCH0001,Carter,Phillips,6,2012-02-16,DEV-948343,2021-01-04,Suspended,,GRP016,Sticker Traders,76,0,0,restricted-area-curiosity;bathroom-loitering,
+STD00426,SCH0001,Samuel,Rivera,2,2017-09-24,DEV-273580,2021-04-07,Active,,GRP025,Tech Helpers,88,1,0,restricted-area-curiosity,
+STD00427,SCH0001,Wyatt,Lopez,7,2011-12-23,DEV-856215,2021-02-05,Active,,GRP002,Bus Loop Buddies,43,0,0,quiet-observer,Device reported low battery twice this month.
+STD00428,SCH0001,Victoria,Phillips,5,2013-02-19,DEV-558933,2021-09-26,Active,,GRP038,Late Bus League,92,1,0,conflict-prone/bathroom-loitering/boundary-testing,Strong peer influence in group.
+STD00429,SCH0001,Mason,Collins,5,2013-03-02,DEV-145814,2023-12-20,Active,,GRP016,Sticker Traders,67,0,0,,Device reported low battery twice this month.
+STD00430,SCH0001,Julian,Carter,K,2019-12-01,DEV-530816,2021-10-12,Active,,GRP001,Library Crew,43,0,0,boundary-testing,Strong peer influence in group.
+STD00431,SCH0001,Isabella,Diaz,1,2017-11-25,DEV-481995,2020-11-10,Active,,GRP022,Quiet Corner,61,0,0,,
+STD00432,SCH0001,Emerson,Johnson,4,2014-08-10,DEV-809217,2023-07-29,Active,,GRP034,Weekend Warriors,60,0,0,,Seen near back gate during aftercare pickup.
+STD00433,SCH0001,Parker,Adams,6,2012-08-20,DEV-854540,2023-05-08,Active,,GRP031,Book Fair Brigade,70,0,0,bathroom-loitering|late-arrival-pattern,Badge scan mismatch vs device ping (one time).
+STD00434,SCH0001,Wyatt,Thompson,3,2015-02-07,DEV-349068,2023-08-06,Active,,GRP020,Drama Circle,19,0,0,model-citizen,Strong peer influence in group.
+STD00435,SCH0001,Isaac,Scott,8,2010-12-06,DEV-565776,2022-05-16,Active,,GRP022,Quiet Corner,27,0,0,frequent-nurse-visits,Lunch line disputes reported by staff.
+STD00436,SCH0001,Victoria,Nelson,1,2017-12-16,DEV-740255,2021-01-17,Active,,GRP021,Bike Rack Crew,35,0,0,,
+STD00437,SCH0001,Ryan,Gomez,8,2010-04-16,DEV-398768,2023-07-17,Active,,GRP003,Playground Pack,50,0,0,restricted-area-curiosity;peer-leader,Lunch line disputes reported by staff.
+STD00438,SCH0001,Sage,Clark,2,2016-07-07,DEV-888939,2023-10-27,Active,,GRP014,New Kids Table,0,0,0,,Lunch line disputes reported by staff.
+STD00439,SCH0001,Aaron,Campbell,1,2017-05-04,DEV-884897,2021-06-05,Active,,GRP021,Bike Rack Crew,34,0,0,,Device reported low battery twice this month.
+STD00440,SCH0001,Lincoln,White,K,2018-10-09,DEV-921874,2020-11-11,Active,,GRP004,Chess Club-ish,74,0,0,,Device reported low battery twice this month.
+STD00441,SCH0001,Lincoln,Phillips,8,2010-07-04,DEV-570735,2023-05-12,Active,,GRP027,Field Trip Friends,30,0,0,,Strong peer influence in group.
+STD00442,SCH0001,Zoey,Young,8,2010-03-11,DEV-345369,,Active,,GRP026,PE Pace Setters,54,0,0,,
+STD00443,SCH0001,Thomas,Johnson,5,2013-08-28,DEV-659951,2023-10-06,Active,,GRP007,Skatepark Stories,55,0,0,,Lunch line disputes reported by staff.
+STD00444,SCH0001,David,King,4,2014-11-16,DEV-350786,2022-04-09,Active,,GRP017,Snack Sharers,57,0,0,model-citizen|bathroom-loitering,Device reported low battery twice this month.
+STD00445,SCH0001,Benjamin,Campbell,6,2012-08-01,DEV-424500,2022-08-07,Active,,GRP023,Lunch Line Legends,63,0,0,,
+STD00446,SCH0001,David,Baker,5,2013-07-19,DEV-947903,2020-10-24,Active,,GRP035,Team Homework,68,0,0,wanderer,Lunch line disputes reported by staff.
+STD00447,SCH0001,Benjamin,Stewart,3,2015-11-05,DEV-922471,2021-06-30,Active,,GRP014,New Kids Table,14,0,0,model-citizen,Swapped device with friend once (unclear).
+STD00448,SCH0001,Aiden,Davis,8,2010-05-05,DEV-591798,2023-09-23,Active,,GRP024,Kindness Captains,53,0,0,,Seen near back gate during aftercare pickup.
+STD00449,SCH0001,Caleb,Parker,1,2017-07-04,DEV-975679,2021-07-21,Active,,GRP001,Library Crew,57,0,1,hallway-sprinter/device-tamper,Frequent early arrivals at main entrance.
+STD00450,SCH0001,Aria,Stewart,K,2018-09-06,DEV-303440,2021-05-11,Active,,GRP017,Snack Sharers,43,0,0,model-citizen,
+STD00451,SCH0001,Sophia,Diaz,3,2015-02-25,DEV-485709,2023-11-02,Active,,GRP010,Hallway Hustle,53,0,0,late-arrival-pattern,Lunch line disputes reported by staff.
+STD00452,SCH0001,Kai,Reyes,3,2015-01-03,DEV-811256,2022-06-14,Active,,GRP006,Soccer Squad,51,0,0,,Quiet but tends to wander halls.
+STD00453,SCH0001,Eden,Jackson,4,2014-04-22,DEV-698128,2020-08-14,Active,,GRP029,Band Buddies,62,0,0,,
+STD00454,SCH0001,Piper,Edwards,7,2011-07-02,DEV-561999,2021-08-12,Active,,GRP009,Science Lab Rats,89,1,1,boundary-testing|device-tamper|restricted-area-curiosity,
+STD00455,SCH0001,Jayden,Thompson,5,2013-09-24,DEV-584106,2022-03-16,Active,,GRP023,Lunch Line Legends,54,0,0,quiet-observer,
+STD00456,SCH0001,Nathan,Taylor,K,2016-05-02,DEV-906814,2024-01-22,Suspended,,GRP021,Bike Rack Crew,78,0,1,"boundary-testing , conflict-prone , device-tamper",Quiet but tends to wander halls.
+STD00457,SCH0001,Rowan,Gomez,7,2011-09-03,DEV-395459,2023-09-28,Active,,GRP025,Tech Helpers,61,0,0,,Lunch line disputes reported by staff.
+STD00458,SCH0001,Elizabeth,Rogers,4,2014-11-17,DEV-915922,2023-11-03,Active,,GRP001,Library Crew,16,0,0,peer-leader,Parent requested device strap replacement.
+STD00459,SCH0001,Scarlett,Young,7,2011-02-06,DEV-500422,2023-11-04,Active,,GRP022,Quiet Corner,57,0,0,wanderer,Badge scan mismatch vs device ping (one time).
+STD00460,SCH0001,Abigail,Clark,3,2015-04-09,DEV-627335,2021-06-28,Active,,GRP024,Kindness Captains,43,0,0,,
+STD00461,SCH0001,Mateo,Hernandez,6,2012-06-06,DEV-653081,2023-07-18,Active,,GRP020,Drama Circle,53,0,0,conflict-prone,Parent requested device strap replacement.
+STD00462,SCH0001,Isabella,Lopez,K,2018-03-26,DEV-538997,2020-11-14,Active,,GRP033,Creative Crew,41,0,0,quiet-observer,Frequent early arrivals at main entrance.
+STD00463,SCH0001,Emerson,Young,2,2016-09-20,DEV-269930,2021-03-16,Active,,GRP037,Early Arrivers,52,0,0,,
+STD00464,SCH0001,Riley,Baker,2,2016-11-02,DEV-956572,2024-01-02,Suspended,,GRP003,Playground Pack,81,0,1,bathroom-loitering/device-tamper,Frequent early arrivals at main entrance.
+STD00465,SCH0001,Harper,Garcia,2,2016-08-17,DEV-309398,2023-09-15,Active,,GRP018,Group Project Gang,78,0,1,boundary-testing/device-tamper/conflict-prone,Badge scan mismatch vs device ping (one time).
+STD00466,SCH0001,Levi,Jackson,K,2018-02-15,DEV-940181,2022-07-22,Active,,GRP025,Tech Helpers,49,0,1,late-arrival-pattern|device-tamper,
+STD00467,SCH0001,Grace,Rodriguez,3,2015-02-02,DEV-734035,2022-07-18,Active,,GRP031,Book Fair Brigade,24,0,0,quiet-observer,Quiet but tends to wander halls.
+STD00468,SCH0001,Joseph,Robinson,K,2018-08-23,DEV-245121,2021-12-14,Active,,GRP025,Tech Helpers,10,0,0,model-citizen,Frequent early arrivals at main entrance.
+STD00469,SCH0001,Abigail,Walker,4,2014-05-24,DEV-362147,2023-10-31,Active,,GRP017,Snack Sharers,32,0,0,,Strong peer influence in group.
+STD00470,SCH0001,Lucas,Rodriguez,6,2012-05-28,DEV-901280,2022-09-27,Active,,GRP009,Science Lab Rats,63,0,0,"late-arrival-pattern , frequent-nurse-visits",Seen near back gate during aftercare pickup.
+STD00471,SCH0001,Chloe,Lewis,8,2010-01-11,DEV-772324,2020-11-25,Active,,GRP003,Playground Pack,27,0,0,group-magnet,Quiet but tends to wander halls.
+STD00472,SCH0001,Isaac,Stewart,3,2016-11-09,DEV-603935,2021-12-25,Suspended,,GRP005,Art Cartel,13,0,0,quiet-observer,Strong peer influence in group.
+STD00473,SCH0001,Zoey,Nelson,5,2013-05-28,DEV-489244,2023-12-01,Active,,GRP011,Morning Walkers,29,0,0,,Seen near back gate during aftercare pickup.
+STD00474,SCH0001,Eli,Harris,2,2016-05-25,DEV-681478,2021-11-09,Active,,GRP009,Science Lab Rats,28,0,0,,Strong peer influence in group.
+STD00475,SCH0001,Riley,Walker,4,2014-01-23,DEV-207573,2022-07-25,Active,,GRP010,Hallway Hustle,49,0,0,model-citizen;bathroom-loitering,Parent requested device strap replacement.
+STD00476,SCH0001,Levi,Nguyen,6,2012-03-01,DEV-845957,2022-11-14,Active,,GRP031,Book Fair Brigade,54,0,0,,Strong peer influence in group.
+STD00477,SCH0001,Ariana,Lewis,3,2015-06-17,DEV-986982,2022-07-06,Active,,GRP005,Art Cartel,27,0,0,,Device reported low battery twice this month.
+STD00478,SCH0001,Emerson,Diaz,2,2016-09-24,DEV-640970,2023-12-27,Active,,GRP017,Snack Sharers,76,0,0,"conflict-prone , restricted-area-curiosity , boundary-testing",
+STD00479,SCH0001,Eli,Turner,1,2017-06-03,DEV-992512,2023-04-19,Active,,GRP021,Bike Rack Crew,56,0,0,,Strong peer influence in group.
+STD00480,SCH0001,Ariana,Wright,7,2011-05-11,DEV-230734,2021-05-31,Active,,GRP024,Kindness Captains,58,0,0,late-arrival-pattern,Lunch line disputes reported by staff.
+STD00481,SCH0001,James,Garcia,K,2018-07-01,DEV-398910,2023-07-21,Active,,GRP029,Band Buddies,62,0,1,"device-tamper , bus-loop-linger",Seen near back gate during aftercare pickup.
+STD00482,SCH0001,Bella,Anderson,5,2013-12-02,DEV-187949,2022-11-16,Active,,GRP022,Quiet Corner,74,1,0,restricted-area-curiosity|bus-loop-linger,Strong peer influence in group.
+STD00483,SCH0001,Nathan,Roberts,2,2016-06-15,DEV-900185,2021-02-15,Active,,GRP006,Soccer Squad,91,1,0,"bathroom-loitering , boundary-testing , restricted-area-curiosity",
+STD00484,SCH0001,Carter,Cruz,2,2016-09-09,DEV-268099,2022-03-07,Active,,GRP033,Creative Crew,31,0,0,,Device reported low battery twice this month.
+STD00485,SCH0001,Benjamin,Wilson,3,2015-04-18,DEV-386042,2020-10-21,Active,,GRP008,Cafeteria Corner,10,0,0,model-citizen,Badge scan mismatch vs device ping (one time).
+STD00486,SCH0001,James,Reyes,2,2016-05-04,DEV-571145,2023-01-03,Active,,GRP009,Science Lab Rats,82,0,1,device-tamper;conflict-prone;bathroom-loitering,Seen near back gate during aftercare pickup.
+STD00487,SCH0001,Matthew,,8,2010-08-21,DEV-638289,2022-05-07,Active,,GRP001,Library Crew,52,0,1,conflict-prone|device-tamper,Parent requested device strap replacement.
+STD00488,SCH0001,Abigail,Roberts,K,2018-04-22,DEV-254506,2021-08-19,Active,,GRP004,Chess Club-ish,38,0,0,group-magnet|bus-loop-linger,Strong peer influence in group.
+STD00489,SCH0001,Jackson,Garcia,4,2014-07-23,DEV-971415,2022-07-16,Active,,GRP036,Sunset Walkers,42,0,0,,Strong peer influence in group.
+STD00490,SCH0001,Adam,Hill,7,2011-02-08,DEV-558723,2022-03-12,Active,,GRP001,Library Crew,16,0,0,model-citizen,Swapped device with friend once (unclear).
+STD00491,SCH0001,Adam,Murphy,5,2013-10-14,DEV-196168,2021-10-15,Active,,GRP024,Kindness Captains,42,0,0,frequent-nurse-visits,Frequent early arrivals at main entrance.
+STD00492,SCH0001,Grayson,Murphy,3,2015-12-08,DEV-332823,2022-11-18,Active,,GRP018,Group Project Gang,6,0,0,model-citizen,Badge scan mismatch vs device ping (one time).
+STD00493,SCH0001,Isaac,Gonzalez,5,2013-12-11,DEV-956375,2020-11-09,Active,,GRP019,Gamer Chat,64,0,0,quiet-observer;bus-loop-linger,Device reported low battery twice this month.
+STD00494,SCH0001,Grace,Williams,1,2015-09-04,DEV-573041,2020-10-26,Active,,GRP028,Study Hall Squad,58,0,0,,Swapped device with friend once (unclear).
+STD00495,SCH0001,James,Scott,2,2016-02-03,DEV-466566,2024-01-17,Active,,GRP030,Sports Meds,33,0,1,device-tamper,Swapped device with friend once (unclear).
+STD00496,SCH0001,Noah,Flores,8,2010-05-15,DEV-127965,2023-03-24,Active,,GRP006,Soccer Squad,49,0,0,model-citizen,Badge scan mismatch vs device ping (one time).
+STD00497,SCH0001,Julian,Anderson,3,2015-08-08,DEV-535050,2023-02-02,Withdrawn,2024-02-26,GRP033,Creative Crew,50,0,0,,Strong peer influence in group.
+STD00498,SCH0001,Benjamin,Evans,5,2013-10-27,DEV-155843,2024-01-05,Active,,GRP028,Study Hall Squad,29,0,0,,
+STD00499,SCH0001,Carter,Murphy,4,2014-09-16,DEV-515712,2023-04-17,Active,,GRP019,Gamer Chat,46,0,0,,
+STD00500,SCH0001,Evelyn,Thompson,4,2014-04-15,DEV-626392,2023-05-12,Active,,GRP033,Creative Crew,50,0,0,,Badge scan mismatch vs device ping (one time).

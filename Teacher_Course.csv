@@ -1,0 +1,81 @@
+course_id,teacher_id,course_name,room,period
+CRS00001,TCH0001,Pre-Algebra,Classroom 1-3,6
+CRS00002,TCH0001,Algebra Prep,Classroom 6-3,5
+CRS00003,TCH0002,SEL Check-in,Classroom 2-1,1
+CRS00004,TCH0002,Advisory,Classroom K-4,2
+CRS00005,TCH0003,Music,Music Room,2
+CRS00006,TCH0003,Library Skills,Library,1
+CRS00007,TCH0004,Earth Science,Classroom 7-1,3
+CRS00008,TCH0004,STEM Lab,Classroom 7-1,7
+CRS00009,TCH0005,Homeroom 4,Science Lab,5
+CRS00010,TCH0006,Homeroom 2,Science Lab,1
+CRS00011,TCH0007,Homeroom 3,Classroom K-3,7
+CRS00012,TCH0008,Health & Wellness,Classroom K-4,5
+CRS00013,TCH0009,Earth Science,Portable A (Temp),7
+CRS00014,TCH0009,STEM Lab,Classroom 8-1,3
+CRS00015,TCH0010,Civics,Music Room,7
+CRS00016,TCH0010,US History Basics,Classroom 5-3,4
+CRS00017,TCH0010,World Cultures,Classroom 8-3,4
+CRS00018,TCH0011,Homeroom 1,Classroom 2-2,6
+CRS00019,TCH0012,Campus Support,Classroom 2-2,7
+CRS00020,TCH0012,Study Hall,Classroom 2-4,1
+CRS00021,TCH0013,STEM Enrichment,Classroom 8-1,4
+CRS00022,TCH0014,Homeroom K,Classroom 2-4,2
+CRS00023,TCH0015,Homeroom K,Classroom 5-2,5
+CRS00024,TCH0016,Homeroom 4,Classroom 3-1,3
+CRS00025,TCH0017,Homeroom 2,Classroom K-2,3
+CRS00026,TCH0017,Reading Workshop,Science Lab,2
+CRS00027,TCH0018,ELA Core,Classroom 6-2,6
+CRS00028,TCH0018,Literacy Lab,Classroom 8-1,5
+CRS00029,TCH0018,Writing Studio,Classroom K-2,6
+CRS00030,TCH0019,Math Foundations,Classroom K-4,1
+CRS00031,TCH0019,Pre-Algebra,Room ??,5
+CRS00032,TCH0020,Homeroom 4,Classroom 1-4,3
+CRS00033,TCH0021,STEM Lab,Classroom 7-1,3
+CRS00034,TCH0021,Science Inquiry,Science Lab,4
+CRS00035,TCH0021,Life Science,Portable A (Temp),3
+CRS00036,TCH0022,Homeroom 3,Classroom 8-3,2
+CRS00037,TCH0023,Homeroom 1,Classroom 2-3,6
+CRS00038,TCH0023,Reading Workshop,Music Room,4
+CRS00039,TCH0024,Pre-Algebra,Cafeteria,7
+CRS00040,TCH0024,Math Foundations,Classroom 7-2,2
+CRS00041,TCH0025,Reading Workshop,Portable  B,6
+CRS00042,TCH0025,Writing Studio,Science Lab,7
+CRS00043,TCH0025,ELA Core,Classroom K-4,6
+CRS00044,TCH0026,Library Skills,Library,1
+CRS00045,TCH0026,Art,Art Room,5
+CRS00046,TCH0027,Homeroom 1,Classroom 4-4,4
+CRS00047,TCH0028,Reading Workshop,Classroom K-4,2
+CRS00048,TCH0028,Literacy Lab,Classroom 5-3,3
+CRS00049,TCH0029,Science Inquiry,Classroom 7-1,6
+CRS00050,TCH0029,Life Science,Classroom 7-1,6
+CRS00051,TCH0030,Homeroom 3,Classroom 6-3,4
+CRS00052,TCH0031,Earth Science,Classroom 7-1,7
+CRS00053,TCH0031,Science Inquiry,Science Lab,1
+CRS00054,TCH0031,STEM Lab,Classroom 8-1,7
+CRS00055,TCH0032,Homeroom 1,Science Lab,4
+CRS00056,TCH0033,Homeroom K,Classroom 8-4,4
+CRS00057,TCH0033,Reading Workshop,Classroom K-2,5
+CRS00058,TCH0034,Advisory,Art Room,3
+CRS00059,TCH0034,SEL Check-in,,1
+CRS00060,TCH0035,Campus Support,Art Room,5
+CRS00061,TCH0036,Library Skills,Library,4
+CRS00062,TCH0036,Music,Music Room,3
+CRS00063,TCH0037,Homeroom 5,Classroom 1-1,4
+CRS00064,TCH0038,Homeroom K,Classroom 7-2,4
+CRS00065,TCH0039,US History Basics,Classroom 3-2,3
+CRS00066,TCH0039,World Cultures,Classroom K-4,5
+CRS00067,TCH0039,Geography,Classroom 8-1,7
+CRS00068,TCH0040,Algebra Prep,Portable  B,2
+CRS00069,TCH0040,Math Foundations,Portable A (Temp),5
+CRS00070,TCH0040,Pre-Algebra,Classroom 5-4,6
+CRS00071,TCH0041,Homeroom 2,Science Lab,5
+CRS00072,TCH0042,ELA Core,Classroom 1-2,6
+CRS00073,TCH0042,Literacy Lab,Classroom 1-3,7
+CRS00074,TCH0043,Homeroom 2,Classroom 6-2,2
+CRS00075,TCH0044,Physical Education,Gym,5
+CRS00076,TCH0044,Health & Wellness,Classroom 5-1,4
+CRS00077,TCH0045,Homeroom K,Classroom 7-1,1
+CRS00078,TCH0046,Civics,Classroom 1-3,6
+CRS00079,TCH0046,US History Basics,Science Lab,6
+CRS00080,TCH0046,World Cultures,Classroom 5-2,2

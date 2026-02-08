@@ -1,0 +1,64 @@
+location_id,location_name,location_type,restricted_flag
+LOC0001,Main Entrance,Entry,0
+LOC0002,Front Office,Admin,0
+LOC0003,Nurse Office,Admin,1
+LOC0004,Counselor Office,Admin,1
+LOC0005,Cafeteria,Common,0
+LOC0006,Gym,Common,0
+LOC0007,Library,Common,0
+LOC0008,Playground,Outdoor,0
+LOC0009,Bus Loop,Outdoor,0
+LOC0010,Staff Lounge,StaffOnly,1
+LOC0011,Custodial Closet A,StaffOnly,1
+LOC0012,Server Room,HighSecurity,1
+LOC0013,Science Lab,Classroom,0
+LOC0014,Art Room,Classroom,0
+LOC0015,Music Room,Classroom,0
+LOC0016,Main Hallway,Hallway,0
+LOC0017,East Hallway,Hallway,0
+LOC0018,West Hallway,Hallway,0
+LOC0019,Bathroom - K-2,Bathroom,0
+LOC0020,Bathroom - 3-5,Bathroom,0
+LOC0021,Bathroom - 6-8,Bathroom,0
+LOC0022,Bike Rack,Outdoor,0
+LOC0023,Back Gate,Exit,1
+LOC0024,Parking Lot,Outdoor,1
+LOC0101,Classroom K-1,Classroom,0
+LOC0102,Classroom K-2,Classroom,0
+LOC0103,Classroom K-3,Classroom,0
+LOC0104,Classroom K-4,Classroom,0
+LOC0105,Classroom 1-1,Classroom,0
+LOC0106,Classroom 1-2,Classroom,0
+LOC0107,Classroom 1-3,Classroom,0
+LOC0108,Classroom 1-4,Classroom,0
+LOC0109,Classroom 2-1,Classroom,0
+LOC0110,Classroom 2-2,Classroom,0
+LOC0111,Classroom 2-3,Classroom,0
+LOC0112,Classroom 2-4,Classroom,0
+LOC0113,Classroom 3-1,Classroom,0
+LOC0114,Classroom 3-2,Classroom,0
+LOC0115,Classroom 3-3,Classroom,0
+LOC0116,Classroom 3-4,Classroom,0
+LOC0117,Classroom 4-1,Classroom,0
+LOC0118,Classroom 4-2,Classroom,0
+LOC0119,Classroom 4-3,Classroom,0
+LOC0120,Classroom 4-4,Classroom,0
+LOC0121,Classroom 5-1,Classroom,0
+LOC0122,Classroom 5-2,Classroom,0
+LOC0123,Classroom 5-3,Classroom,0
+LOC0124,Classroom 5-4,Classroom,0
+LOC0125,Classroom 6-1,Classroom,0
+LOC0126,Classroom 6-2,Classroom,0
+LOC0127,Classroom 6-3,Classroom,0
+LOC0128,Classroom 6-4,Classroom,0
+LOC0129,Classroom 7-1,Classroom,0
+LOC0130,Classroom 7-2,Classroom,0
+LOC0131,Classroom 7-3,Classroom,0
+LOC0132,Classroom 7-4,Classroom,0
+LOC0133,Classroom 8-1,Classroom,0
+LOC0134,Classroom 8-2,Classroom,0
+LOC0135,Classroom 8-3,Classroom,0
+LOC0136,Classroom 8-4,Classroom,0
+LOC0201,Portable A (Temp),Classroom,0
+LOC0202,Portable  B,Classroom,0
+LOC0203,Room ??,Classroom,0
